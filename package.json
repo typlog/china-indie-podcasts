@@ -1,0 +1,19 @@
+{
+  "name": "china-indie-podcasts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "start": "parcel serve html/*.njk",
+    "build": "parcel build --no-source-maps html/*.njk"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "private",
+  "devDependencies": {
+    "marked": "^0.6.2",
+    "nunjucks": "^3.2.0",
+    "parcel-bundler": "^1.12.3",
+    "parcel-plugin-nunjucks": "^1.1.0"
+  }
+}

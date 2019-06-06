@@ -1,0 +1,89 @@
+@import "./css/base.css";
+
+.inner {
+  max-width: 980px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.head {
+  margin: 20px 0;
+  line-height: 1.6;
+}
+
+.head h1 {
+  margin: 0;
+  font-size: 32px;
+  color: #000;
+}
+
+.head h2 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.podcasts {
+  margin: 80px 0 40px;
+}
+
+.podcasts .inner {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  flex-basis: 50%;
+  flex-shrink: 0;
+  padding: 10px 5px;
+  box-sizing: border-box;
+}
+
+.item:after {
+  display: table;
+  content: '';
+  clear: both;
+}
+
+.item_logo {
+  display: inline-block;
+  float: left;
+  width: 100px;
+  height: 100px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+.item_logo img {
+  max-width: 100%;
+  vertical-align: middle;
+  border-radius: 8px;
+}
+.item_main {
+  padding-top: 4px;
+}
+.item_main h3  {
+  margin: 0;
+  font-size: 16px;
+}
+.item_main a {
+  color: #000;
+  text-decoration: none;
+}
+.item_main a:hover {
+  color: var(--theme-color);
+}
+.item_main p {
+  margin: 4px 0;
+  color: rgba(0, 0, 0, 0.42);
+}
+.item_meta {
+  color: rgba(0, 0, 0, 0.42);
+}
+
+.item_links {
+  margin-top: 1em;
+}
+.item_links a {
+  color: rgba(0, 0, 0, 0.62);
+}

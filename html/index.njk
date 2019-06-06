@@ -1,0 +1,52 @@
+{% extends "base.njk" %}
+
+{% block title %}中文独立播客{% endblock %}
+
+{% block meta %}
+<link rel="stylesheet" href="../src/home.css">
+{% endblock %}
+
+{% block body %}
+<div class="head">
+  <div class="inner">
+    <h1>中文独立播客</h1>
+    <h2>发现与推荐高质量的中文独立播客</h2>
+  </div>
+</div>
+<div class="podcasts">
+ <div class="inner">
+   {% for item in podcasts %}
+     <div class="item{% if item.blocked %} _blocked{% endif %}"{% if item.color %} style="--theme-color:{{ item.color }}"{% endif %}>
+       <a class="item_logo" href="{{ item.url }}" target="_blank">
+         <img src="{{ item.logo }}" alt="{{ item.name }} Logo">
+       </a>
+       <div class="item_main">
+         <h3><a href="{{ item.url }}" target="_blank">{{ item.name }}</a></h3>
+         <p>{{ item.description }}</p>
+         <div class="item_meta">
+           <span>{{ item.author }}</span>
+         </div>
+         <div class="item_links">
+           <a class="icon-feed" href="{{ item.feed }}" target="_blank" aria-label="Feed"></a>
+           {% if item.apple %}
+           <a class="icon-apple" href="{{ item.apple }}" target="_blank" aria-label="Apple Podcasts"></a>
+           {% endif %}
+
+           {% if item.google %}
+           <a class="icon-google" href="{{ item.google }}" target="_blank" aria-label="Google Podcasts"></a>
+           {% endif %}
+
+           {% if item.spotify %}
+           <a class="icon-spotify" href="{{ item.spotify }}" target="_blank" aria-label="Spotify"></a>
+           {% endif %}
+
+           {% if item.overcast %}
+           <a class="icon-overcast" href="{{ item.overcast }}" target="_blank" aria-label="Overcast"></a>
+           {% endif %}
+         </div>
+       </div>
+     </div>
+   {% endfor %}
+ </div>
+</div>
+{% endblock %}

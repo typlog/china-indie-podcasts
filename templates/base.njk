@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>{% block title %}{% endblock %}</title>
+  {% block meta %}{% endblock %}
+  {% if env == 'production' %}
+  <script>!function(e,t,a,n,c,s,o){e.GoogleAnalyticsObject=c,e[c]=e[c]||function(){(e[c].q=e[c].q||[]).push(arguments)},e[c].l=1*new Date,s=t.createElement(a),o=t.getElementsByTagName(a)[0],s.async=1,s.src="https://www.google-analytics.com/analytics.js",o.parentNode.insertBefore(s,o)}(window,document,"script",0,"ga"),ga("create","UA-34098939-4"),ga("send","pageview")</script>
+  {% endif %}
+</head>
+<body>
+{% block body %}{% endblock %}
+{% include "_includes/foot.html" %}
+</body>
+</html>

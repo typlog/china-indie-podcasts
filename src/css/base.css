@@ -1,0 +1,75 @@
+@import "./normalize.css";
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Hiragino Sans GB,Droid Sans Fallback,Microsoft YaHei,sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.inner:after {
+  display: table;
+  content: '';
+  clear: both;
+}
+
+.typlog-foot {
+  border-top: 1px solid rgba(0, 0, 0, 0.04);
+  font-size: 16px;
+}
+.typlog-foot .inner {
+  padding: 20px;
+}
+
+.typlog-foot .title {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: rgba(0,0,0,.2);
+  letter-spacing: .02em;
+  margin-right: 1em;
+}
+
+.typlog-foot nav {
+  display: inline-block;
+}
+
+.typlog-foot nav > a {
+  text-decoration: none;
+  color: rgba(0,0,0,.6);
+  transition: color 0.2s ease;
+}
+.typlog-foot nav > a:hover {
+  color: rgba(0, 0, 0, 0.8);
+}
+.typlog-foot nav > a + a:before {
+  content: '/';
+  font-size: 10px;
+  color: rgba(0,0,0,.1);
+  margin: 0 4px;
+}
+
+.typlog-foot .links {
+  float: left;
+}
+.typlog-foot .copy {
+  float: right;
+  color: rgba(0, 0, 0, 0.2);
+}
+.typlog-foot .copy a {
+  color: rgba(0, 0, 0, 0.2);
+  text-decoration: none;
+}
+
+@media (max-width: 680px) {
+  .typlog-foot .links,
+  .typlog-foot .copy {
+    float: none;
+  }
+  .typlog-foot .copy {
+    margin-top: 16px;
+  }
+}
