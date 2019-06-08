@@ -1,0 +1,18 @@
+{
+  "name": "麦迷说",
+  "description": "一档由麦克拉伦车迷做的 F1 主题播客节目",
+  "author": "迈凯伦车迷俱乐部",
+  "color": "#FF9E1B",
+  "logo": "https://i.typcdn.com/undercut/8444310948_981473.jpg",
+  "url": "https://undercut.xyz/episodes/",
+  "feed": "https://undercut.xyz/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/podcast/id1456247699",
+  "google": "https://play.google.com/music/listen?u=0#/ps/Iuqa6mneujxkzq7vm63gr5exupu",
+  "spotify": "https://open.spotify.com/show/3sfkJKsjeADZkZCnq55U1c?si=tqEPk5xSSUGSGmOprMKj0w",
+  "overcast": "https://overcast.fm/p1210658-oDqDto",
+  "pcast": "https://pca.st/a62r",
+  "castro": "https://castro.fm/podcast/3918814c-d85f-41a8-918c-11531bc93f09",
+  "breaker": null,
+  "typlog": true,
+  "blocked": false
+  }
