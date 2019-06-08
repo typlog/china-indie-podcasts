@@ -321,5 +321,23 @@
     "breaker": null,
     "typlog": false,
     "blocked": true
+  },
+  {
+    "name": "生产力维基",
+    "description": "一个关注时间管理、知识管理、目标管理、项目管理、精力管理和个人效能的播客. ",
+    "author": "Bestony",
+    "color": "#da1a00",
+    "logo": "https://productivity.wiki/wp-content/uploads/2018/11/itunes-logo.png",
+    "url": "https://productivity.wiki",
+    "feed": "https://productivity.wiki/feed/podcast",
+    "apple": null,
+    "google": null,
+    "spotify": null,
+    "overcast": null,
+    "pcast": "https://pca.st/Je6M",
+    "castro": "https://castro.fm/podcast/ccc4f865-69a5-4a9d-bae7-fc1319d1661d",
+    "breaker": null,
+    "typlog": false,
+    "blocked": false
   }
 ]
