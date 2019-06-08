@@ -375,5 +375,23 @@
     "breaker": null,
     "typlog": false,
     "blocked": false
+  },
+  {
+    "name": "捕蛇者说",
+    "description": "聊聊 Python，聊聊编程，聊聊人生",
+    "author": "Manjusaka",
+    "color": "#000000",
+    "logo": "https://i.typcdn.com/pythonhunter/8444690454_041962.png",
+    "url": "https://pythonhunter.org/",
+    "feed": "https://pythonhunter.org/episodes/feed.xml",
+    "apple": "https://podcasts.apple.com/podcast/id1460475182",
+    "google": "https://podcasts.google.com/?feed=aHR0cHM6Ly9weXRob25odW50ZXIub3JnL2VwaXNvZGVzL2ZlZWQueG1s",
+    "spotify": null,
+    "overcast": "https://overcast.fm/itunes1460475182",
+    "pcast": null,
+    "castro": "https://castro.fm/podcast/465b8ab9-4439-4ce9-ba48-98eeb1022011",
+    "breaker": null,
+    "typlog": false,
+    "blocked": false
   }
 ]
