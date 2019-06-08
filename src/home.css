@@ -36,11 +36,11 @@
 .item {
   flex-basis: 50%;
   flex-shrink: 0;
-  padding: 10px 5px;
+  padding: 15px 5px;
   box-sizing: border-box;
 }
 
-.item:after {
+.item:after, .item_links:after {
   display: table;
   content: '';
   clear: both;
@@ -78,12 +78,24 @@
   color: rgba(0, 0, 0, 0.42);
 }
 .item_meta {
+  font-size: 14px;
   color: rgba(0, 0, 0, 0.42);
 }
 
 .item_links {
-  margin-top: 1em;
+  margin-top: 10px;
 }
 .item_links a {
+  float: left;
+  position: relative;
   color: rgba(0, 0, 0, 0.62);
+}
+.item_links a + a {
+  margin-left: 6px;
+}
+
+@media (max-width: 860px) {
+  .item {
+    flex-basis: 100%;
+  }
 }

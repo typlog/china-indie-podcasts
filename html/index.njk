@@ -3,6 +3,7 @@
 {% block title %}中文独立播客{% endblock %}
 
 {% block meta %}
+<link rel="stylesheet" href="https://at.alicdn.com/t/font_1144028_wagkprqwss.css">
 <link rel="stylesheet" href="../src/home.css">
 {% endblock %}
 
@@ -27,21 +28,21 @@
            <span>{{ item.author }}</span>
          </div>
          <div class="item_links">
-           <a class="icon-feed" href="{{ item.feed }}" target="_blank" aria-label="Feed"></a>
+           <a class="typicon icon-feed" href="{{ item.feed }}" target="_blank" aria-label="Feed"></a>
            {% if item.apple %}
-           <a class="icon-apple" href="{{ item.apple }}" target="_blank" aria-label="Apple Podcasts"></a>
+           <a class="typicon icon-podcast" href="{{ item.apple }}" target="_blank" aria-label="Apple Podcasts"></a>
            {% endif %}
 
            {% if item.google %}
-           <a class="icon-google" href="{{ item.google }}" target="_blank" aria-label="Google Podcasts"></a>
+           <a class="typicon icon-google" href="{{ item.google }}" target="_blank" aria-label="Google Podcasts"></a>
            {% endif %}
 
            {% if item.spotify %}
-           <a class="icon-spotify" href="{{ item.spotify }}" target="_blank" aria-label="Spotify"></a>
+           <a class="typicon icon-spotify" href="{{ item.spotify }}" target="_blank" aria-label="Spotify"></a>
            {% endif %}
 
            {% if item.overcast %}
-           <a class="icon-overcast" href="{{ item.overcast }}" target="_blank" aria-label="Overcast"></a>
+           <a class="typicon icon-overcast" href="{{ item.overcast }}" target="_blank" aria-label="Overcast"></a>
            {% endif %}
          </div>
        </div>

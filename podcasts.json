@@ -35,21 +35,21 @@
     "blocked": true
   },
   {
-    "name": "比特新声",
-    "description": "中文科技类播客",
-    "author": "郝海龙、有才",
-    "color": "#FF6630",
-    "logo": "https://i.typcdn.com/bitvoice/8446580582_247966.png",
-    "url": "https://bitvoice.banlan.show/",
-    "feed": "https://bitvoice.banlan.show/episodes/feed.xml",
-    "apple": "https://podcasts.apple.com/podcast/id948011382",
-    "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9iaXR2b2ljZS5iYW5sYW4uc2hvdy9lcGlzb2Rlcy9mZWVkLnhtbA",
-    "spotify": "https://open.spotify.com/show/5582LPfK686phArDMokkuK",
-    "overcast": "https://overcast.fm/itunes948011382",
-    "pcast": "https://pca.st/551E",
-    "castro": "https://castro.fm/itunes/948011382",
-    "breaker": "https://www.breaker.audio/bi-te-xin-sheng",
-    "typlog": true,
-    "blocked": true
+    "name": "迟早更新",
+    "description": "探讨科技、商业、设计和生活之间混沌关系的播客节目",
+    "author": "任宁、枪枪",
+    "color": "#3E5529",
+    "logo": "./logos/czgx.jpg",
+    "url": "https://podcast.weareones.com/",
+    "feed": "https://podcast.weareones.com/rss",
+    "apple": "https://podcasts.apple.com/podcast/id1451277133",
+    "google": "https://podcasts.google.com/?feed=aHR0cHM6Ly9wb2RjYXN0LndlYXJlb25lcy5jb20vcnNz",
+    "spotify": "https://open.spotify.com/show/5MnwuOIlsjs5DTtJLvOpDv",
+    "overcast": "https://overcast.fm/itunes1451277133",
+    "pcast": "https://pca.st/itunes/1451277133",
+    "castro": "https://castro.fm/itunes/1451277133",
+    "breaker": null,
+    "typlog": false,
+    "blocked": false
   }
 ]
