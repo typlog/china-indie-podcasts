@@ -51,5 +51,41 @@
     "breaker": null,
     "typlog": false,
     "blocked": false
+  },
+  {
+    "name": "人间指南",
+    "description": "",
+    "author": "hb",
+    "color": "#000000",
+    "logo": "https://renjianzhinan.fm/images/podcast_logo_320.png",
+    "url": "https://renjianzhinan.fm/",
+    "feed": "https://renjianzhinan.fm/podcast.xml",
+    "apple": "https://podcasts.apple.com/podcast/id1200310057",
+    "google": null,
+    "spotify": null,
+    "overcast": "https://overcast.fm/itunes1200310057",
+    "pcast": "https://pca.st/itunes/1200310057",
+    "castro": "https://castro.fm/itunes/1200310057",
+    "breaker": null,
+    "typlog": false,
+    "blocked": false
+  },
+  {
+    "name": "交差点",
+    "description": "科技人文主题播客",
+    "author": "Jesse, Alex, 林檎",
+    "color": "#000000",
+    "logo": "https://jiaocha.io/assets/logo/logo.jpg",
+    "url": "https://jiaocha.io/",
+    "feed": "https://jiaocha.io/feed.xml",
+    "apple": null,
+    "google": null,
+    "spotify": null,
+    "overcast": null,
+    "pcast": null,
+    "castro": null,
+    "breaker": null,
+    "typlog": false,
+    "blocked": false
   }
 ]
