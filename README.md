@@ -2,7 +2,8 @@
 
 > 发现与推荐高质量的中文独立播客
 
-<https://typlog.com/podlist/>
+- Website: <https://typlog.com/podlist/>
+- OPML 订阅: <https://typlog.com/podlist/opml.xml>
 
 ## 如何提交
 

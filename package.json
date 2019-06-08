@@ -5,7 +5,9 @@
   "description": "",
   "scripts": {
     "start": "parcel serve html/*.njk",
-    "build": "parcel build --public-url=/podlist/ --no-source-maps html/*.njk"
+    "build:html": "parcel build --public-url=/podlist/ --no-source-maps html/*.njk",
+    "build:opml": "node opml.js",
+    "build": "npm run build:html && npm run build:opml"
   },
   "keywords": [],
   "author": "",
