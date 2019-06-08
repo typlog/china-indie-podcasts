@@ -1,0 +1,18 @@
+{
+  "name": "所建所闻",
+  "description": "「所建所闻」是一档呈现建筑师在思考什么、建造什么的播客节目，尝试以专业的视角来讨论周围的建成环境。",
+  "author": "璟璐、慧珊",
+  "color": "#000000",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/f/f2a2da18-9f87-403e-8f15-3777c99aa675/cover.jpg?v=3",
+  "url": "https://www.architalk.xyz/",
+  "feed": "https://www.architalk.xyz/rss",
+  "apple": "https://podcasts.apple.com/podcast/id1447980464",
+  "google": null,
+  "spotify": null,
+  "overcast": "https://overcast.fm/itunes1447980464",
+  "pcast": "https://pca.st/FFBp",
+  "castro": "https://castro.fm/podcast/e261264f-7cc1-4a37-a18f-a54dc2a59628",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}

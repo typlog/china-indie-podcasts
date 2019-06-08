@@ -1,0 +1,18 @@
+{
+  "name": "无业游民",
+  "description": "无业游民——The Unemployable，英文意思是「不能」被雇佣的人。我们相信，除了朝九晚五的全职工作，生活还有另一种打开方式。",
+  "author": "振宇、杨静、阿彬、科长",
+  "color": "#FF6630",
+  "logo": "https://theue.me/wp-content/uploads/2019/02/logo.png",
+  "url": "https://theue.me/",
+  "feed": "https://theue.me/feed/podcast",
+  "apple": "https://podcasts.apple.com/podcast/id1441243418",
+  "google": "",
+  "spotify": "https://open.spotify.com/show/6f2084khHdlstUZBFDviho",
+  "overcast": "",
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+}

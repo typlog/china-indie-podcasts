@@ -1,0 +1,18 @@
+{
+  "name": "提前怀旧",
+  "description": "一切未来终将成为过去。欢迎收听《提前怀旧》，一档由任宁和 Rio 主持的科技评论节目。",
+  "author": "任宁、Rio",
+  "color": "#FF6630",
+  "logo": "https://pretro.xyz/assets/icon-pretro.svg",
+  "url": "https://pretro.xyz/",
+  "feed": "https://pretro.xyz/feed",
+  "apple": "https://itunes.apple.com/cn/podcast/id1397182275",
+  "google": "",
+  "spotify": "",
+  "overcast": "",
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+}

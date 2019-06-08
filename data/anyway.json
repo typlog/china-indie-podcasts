@@ -1,0 +1,18 @@
+{
+  "name": "Anyway.FM 设计杂谈",
+  "description": "Anyway.FM 设计杂谈是一档播客节目，由设计师 JJ Ying 和 Leon Gao 以及 Yuki Gu 主播，我们的目标是让你的听觉更懂视觉。",
+  "author": "JJ Ying、Leon Gao",
+  "color": "#FF6630",
+  "logo": "https://s.anw.red/anyway.fm/logo.svg",
+  "url": "https://anyway.fm/",
+  "feed": "https://anyway.fm/rss.xml",
+  "apple": "https://itunes.apple.com/cn/podcast/anyway.fm-she-ji-za-tan/id1053786200",
+  "google": "",
+  "spotify": "",
+  "overcast": "",
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+}

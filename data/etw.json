@@ -1,0 +1,18 @@
+{
+  "name": "声东击西",
+  "description": "两个驻美记者主持的播客，带你看不一样的世界",
+  "author": "张晶、徐涛、冯兆音",
+  "color": "#FF6630",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover_small.jpg",
+  "url": "https://www.etw.fm/",
+  "feed": "http://www.etw.fm/rss",
+  "apple": "https://podcasts.apple.com/podcast/id1183662640",
+  "google": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iwcjdodn4rhxotwfgn7xbihww2e?t%3D%25E5%25A3%25B0%25E4%25B8%259C%25E5%2587%25BB%25E8%25A5%25BF%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16",
+  "spotify": "",
+  "overcast": "https://overcast.fm/itunes1183662640",
+  "pcast": null,
+  "castro": "https://castro.fm/itunes/1183662640",
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+}

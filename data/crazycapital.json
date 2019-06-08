@@ -1,0 +1,18 @@
+{
+  "name": "疯投圈",
+  "description": "从投资视角探讨商业现象背后的本质。做最好的中文商业类播客。",
+  "author": "黄海、Rio",
+  "color": "#FF6630",
+  "logo": "https://crazy.capital/assets/icon-crazycapital.svg",
+  "url": "https://crazy.capital/",
+  "feed": "https://crazy.capital/feed",
+  "apple": "https://podcasts.apple.com/podcast/id1088178402",
+  "google": "",
+  "spotify": "",
+  "overcast": "",
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+}
