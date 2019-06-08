@@ -1,0 +1,18 @@
+{
+  "name": “一树闲谈”,
+  "description": "由三名不知名摄影师主持的艺术跑题闲聊节目",
+  "author": “一树Arbre”,
+  "color": "#000000",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/8/8ecd4d04-d9eb-48ed-bafc-9ab55e67c940/cover.jpg?v=4",
+  "url": "https://www.arbretalk.com/",
+  "feed": "https://feeds.fireside.fm/arbretalk/rss",
+  "apple": "https://itunes.apple.com/podcast/id1329267569",
+  "google": null,
+  "spotify": null,
+  "overcast": "https://overcast.fm/itunes1329267569",
+  "pcast": "https://pca.st/itunes/1329267569",
+  "castro": "https://castro.fm/itunes/1329267569",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
