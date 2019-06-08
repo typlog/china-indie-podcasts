@@ -24,6 +24,10 @@
   color: rgba(0, 0, 0, 0.6);
 }
 
+.head a {
+  color: rgba(0, 0, 0, 0.8);
+}
+
 .podcasts {
   margin: 80px 0 40px;
 }
