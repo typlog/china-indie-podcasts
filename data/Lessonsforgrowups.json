@@ -1,0 +1,17 @@
+{
+  "name": "大人课",
+  "description": "「大人课」是一项面向所有中国城市青年的自救计划。我们希望帮助自己和你解决 21 世纪最重要的三个问题：信息过载、情感表达、自我取悦。",
+  "author": "文仪，赛赛",
+  "color": "#D3728D",
+  "logo": "https://growup.rocks/wp-content/uploads/2019/03/cover-1024x1024.jpg",
+  "url": "https://growup.rocks",
+  "feed": "https://growup.rocks/feed/podcast",
+  "apple": "https://podcasts.apple.com/gb/podcast/%E5%A4%A7%E4%BA%BA%E8%AF%BE/id1458121725",
+  "google": null,
+  "spotify": "https://open.spotify.com/show/1idzXfq8pXYI2O9oEkZ0ev",
+  "overcast": null,
+  "pcast": null,
+  "castro": "https://castro.fm/podcast/0110febb-da76-4125-b696-ed6e95c2fed4",
+  "breaker": null,
+  "typlog": false
+}
