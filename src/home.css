@@ -53,8 +53,8 @@
 .item_logo {
   display: inline-block;
   float: left;
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   margin-right: 16px;
   overflow: hidden;
 }
@@ -97,6 +97,25 @@
 }
 .item_links a + a {
   margin-left: 6px;
+}
+
+.partners {
+  margin: 60px 0;
+}
+.partners h2 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #ccc;
+}
+.partners a {
+  text-decoration: none;
+  color: #0a7eb3;
+}
+.partners a:hover {
+  color: #07adf9;
+}
+.partners nav a + a {
+  margin-left: 1em;
 }
 
 @media (max-width: 860px) {
