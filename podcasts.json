@@ -105,5 +105,23 @@
     "breaker": null,
     "typlog": false,
     "blocked": false
+  },
+  {
+    "name": "翻转电台Flip Radio",
+    "description": "",
+    "author": "",
+    "color": "#000000",
+    "logo": "https://cdnimg103.lizhi.fm/user/2015/11/19/24418242531181314_160x160.jpg",
+    "url": "https://www.lizhi.fm/user/2501188954165881388",
+    "feed": "http://rss.lizhi.fm/rss/1057263.xml",
+    "apple": "https://podcasts.apple.com/podcast/id1119089237",
+    "google": null,
+    "spotify": null,
+    "overcast": "https://overcast.fm/itunes1119089237",
+    "pcast": "https://pca.st/FFBp",
+    "castro": "https://castro.fm/podcast/79eb3907-06fb-438b-81c2-f73175c1df05",
+    "breaker": null,
+    "typlog": false,
+    "blocked": false
   }
 ]
