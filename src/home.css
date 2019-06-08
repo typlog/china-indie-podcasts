@@ -64,6 +64,7 @@
   border-radius: 8px;
 }
 .item_main {
+  overflow: hidden;
   padding-top: 4px;
 }
 .item_main h3  {
