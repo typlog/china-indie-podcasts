@@ -87,5 +87,23 @@
     "breaker": null,
     "typlog": false,
     "blocked": false
+  },
+  {
+    "name": "津津乐道",
+    "description": "由一群 IT 从业者创办的播客闲聊节目，经常出现的话题会包括生活、新科技、旅游和你所不了解的行业",
+    "author": "HTN",
+    "color": "#000000",
+    "logo": "https://cdn2.jjldbk.com/images/logo-v5-3000-200k.jpg",
+    "url": "https://jinjinledao.org/",
+    "feed": "https://feeds.jjldbk.com/all.xml",
+    "apple": "https://itunes.apple.com/podcast/jin-jin-le-dao/id1086442347",
+    "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9qaW5qaW5sZWRhby5vcmcvP2ZlZWQ9cG9kY2FzdA",
+    "spotify": "https://open.spotify.com/show/4HkNWypHqCFH2U2H1ivI22",
+    "overcast": "https://overcast.fm/itunes1086442347",
+    "pcast": null,
+    "castro": null,
+    "breaker": null,
+    "typlog": false,
+    "blocked": false
   }
 ]
