@@ -4,4 +4,11 @@
 
 <https://typlog.com/podlist/>
 
-编辑修改 `podcasts.json` 提交你的播客。
+## 如何提交
+
+1. 在 `data/` 里添加相应播客的信息，使用 JSON 格式
+2. 在 `data/index.txt` 里注册播客
+
+---
+
+目前只接受使用独立域名的播客。
