@@ -106,4 +106,22 @@
     "typlog": false,
     "blocked": false
   }
+    {
+    "name": "不动声色",
+    "description": "不增不减，不垢不净。",
+    "author": "季缶",
+    "color": "#FF6630",
+    "logo": "https://i.typcdn.com/oxye/8442840348_89443.png",
+    "url": "https://xe.alldirections.xyz/",
+    "feed": "https://xe.alldirections.xyz/episodes/feed.xml",
+    "apple": "https://podcasts.apple.com/podcast/%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2/id1465862950",
+    "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly94ZS5hbGxkaXJlY3Rpb25zLnh5ei9lcGlzb2Rlcy9mZWVkLnhtbA%3D%3D",
+    "spotify": "https://open.spotify.com/show/3Eaw6xUGvK4pfWlDSUie59",
+    "overcast": "https://overcast.fm/p1201577-lnoxmN",
+    "pcast": null,
+    "castro": null,
+    "breaker": null,
+    "typlog": true,
+    "blocked": true
+  }
 ]
