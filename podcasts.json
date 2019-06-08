@@ -106,7 +106,7 @@
     "typlog": false,
     "blocked": false
   },
-    {
+  {
     "name": "不动声色",
     "description": "不增不减，不垢不净。",
     "author": "季缶",
@@ -123,5 +123,5 @@
     "breaker": null,
     "typlog": true,
     "blocked": true
-  }
+  },
 ]
