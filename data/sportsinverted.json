@@ -1,0 +1,17 @@
+{
+  "name": "翻转体育 Sports Inverted",
+  "description": "翻转体育致力于拆掉体育的高墙，让普通人理解体育行业，不同的运动，以及真实的体育人。主播Hunter Shi是一名美国体育法学生。",
+  "author": "Hunter Shi 猎人",
+  "color": "#FF6630",
+  "url": "https://fanzhuansports.fireside.fm",
+  "feed": "https://feeds.fireside.fm/fanzhuansports/rss",
+  "apple": "https://podcasts.apple.com/us/podcast/%E7%BF%BB%E8%BD%AC%E4%BD%93%E8%82%B2-sports-inverted/id1448198459?l=ca",
+  "google": "",
+  "spotify": "",
+  "overcast": "",
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+}
