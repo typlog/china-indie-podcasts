@@ -75,7 +75,7 @@
 .item_main h3 a:after  {
   display: inline-block;
   margin-left: 2px;
-  content: "→";
+  content: "\2192";
   font-weight: 300;
   transform: rotate(-40deg);
 }
