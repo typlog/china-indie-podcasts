@@ -2,7 +2,7 @@
   "name": "Fork it",
   "description": "第一个聊区块链技术的中文播客",
   "author": "Terry、Jan、Daniel、Kevin",
-  "color": "",
+  "color": "#51CCD4",
   "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/3/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/cover_small.jpg",
   "url": "https://forkit.fm/",
   "feed": "https://forkit.fm/rss",
