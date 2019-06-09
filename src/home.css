@@ -72,6 +72,13 @@
   margin: 0;
   font-size: 16px;
 }
+.item_main h3 a:after  {
+  display: inline-block;
+  margin-left: 2px;
+  content: "→";
+  font-weight: 300;
+  transform: rotate(-40deg);
+}
 .item_main a {
   color: #000;
   text-decoration: none;
