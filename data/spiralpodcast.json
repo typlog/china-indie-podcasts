@@ -1,0 +1,17 @@
+{
+  "name": "海螺电台",
+  "description": "「海螺电台」播客是一个记录行动和探索过程的创作计划",
+  "author": "Shawn、Leethree",
+  "color": "#e97200",
+  "logo": "https://i.typcdn.com/spiralpodcast/jcgXQ_pNlQsvFI3C_EPiOA.png",
+  "url": "http://thespiral.fm/",
+  "feed": "http://thespiral.fm/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/cn/podcast/id1453346141?mt=2",
+  "google": "https://podcasts.google.com/?feed=aHR0cDovL3RoZXNwaXJhbC5mbS9lcGlzb2Rlcy9mZWVkLnhtbA%3D%3D",
+  "spotify": "https://open.spotify.com/show/2dmXaTPuhzANPVsNsjeVIH",
+  "overcast": "https://overcast.fm/itunes1453346141/the-spiral",
+  "pcast": "https://pca.st/KI2v",
+  "castro": "https://castro.fm/podcast/417c8ccb-17e9-4819-a472-80f4eb727fcc",
+  "breaker": "https://www.breaker.audio/hai-luo-dian-tai-the-spiral",
+  "typlog": true,
+}
