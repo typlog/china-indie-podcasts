@@ -4,6 +4,7 @@
 
 - Website: <https://typlog.com/podlist/>
 - OPML 订阅: <https://typlog.com/podlist/opml.xml>
+- 談談獨立播客: <https://lepture.com/zh/2019/indie-podcasts>
 
 ## 如何提交
 
