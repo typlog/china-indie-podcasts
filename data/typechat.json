@@ -1,0 +1,19 @@
+  
+{
+  "name": "字谈字畅",
+  "description": "《字谈字畅》（TypeChat）是全球首家用华语制作的字体排印主题播客节目，由 Type is Beautiful 出品，专注于字体、排印和其他文字设计相关的内容，涵盖历史知识和新闻轶事。",
+  "author": "Eric、蒸鱼",
+  "color": "#000000",
+  "logo": "https://www.thetype.com/wp-content/uploads/2015/11/TypeChat-Cover-800px.jpg",
+  "url": "https://thetype.com/typechat/",
+  "feed": "https://thetype.com/feed/typechat/",
+  "apple": "https://podcasts.apple.com/podcast/%E5%AD%97%E8%B0%88%E5%AD%97%E7%95%85/id1041704528",
+  "google": null,
+  "spotify": null,
+  "overcast": "https://overcast.fm/itunes1041704528",
+  "pcast": "https://pca.st/bntw",
+  "castro": "https://castro.fm/podcast/fa3c374a-a0e9-411b-a627-30e5bc0d65fe",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
