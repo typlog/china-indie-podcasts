@@ -6,7 +6,7 @@
   "logo": "https://i.typcdn.com/zegpod/8439903955_643157.jpg",
   "url": "http://zheergen.club/episodes/",
   "feed": "https://zheergen.club/episodes/feed.xml",
-  "apple": "https://podcasts.apple.com/us/podcast/%E6%8A%98%E5%B0%94%E6%A0%B9%E6%92%AD%E5%AE%A2/id1465204213",
+  "apple": "https://podcasts.apple.com/podcast/id1465204213",
   "google": "https://play.google.com/music/m/Iyh4udhsdgl27omf75qenrql6p4",
   "spotify": "https://open.spotify.com/show/388rMk2PT9Cmd1hJBJrwMm",
   "overcast": "https://overcast.fm/itunes1465204213",
@@ -15,4 +15,4 @@
   "breaker": null,
   "typlog": true,
   "blocked": false
-  }
+}

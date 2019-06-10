@@ -29,3 +29,5 @@ darenke
 spiralpodcast
 lostinst
 halfplus
+typechat
+zegpod
