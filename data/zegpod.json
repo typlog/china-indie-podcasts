@@ -1,0 +1,18 @@
+{
+  "name": "折尔根播客",
+  "description": "一档较为走心的陪伴型播客",
+  "author": "折耳根和他的朋友们",
+  "color": "#FF9E1B",
+  "logo": "https://i.typcdn.com/zegpod/8439903955_643157.jpg",
+  "url": "http://zheergen.club/episodes/",
+  "feed": "https://zheergen.club/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/us/podcast/%E6%8A%98%E5%B0%94%E6%A0%B9%E6%92%AD%E5%AE%A2/id1465204213",
+  "google": "https://play.google.com/music/m/Iyh4udhsdgl27omf75qenrql6p4",
+  "spotify": "https://open.spotify.com/show/388rMk2PT9Cmd1hJBJrwMm",
+  "overcast": "https://overcast.fm/itunes1465204213",
+  "pcast": "https://pca.st/6G3r",
+  "castro": "https://castro.fm/podcast/6b1e2bf9-6815-4308-92cb-fe4be2fd034f",
+  "breaker": null,
+  "typlog": true,
+  "blocked": false
+  }
