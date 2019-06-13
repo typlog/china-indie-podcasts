@@ -1,0 +1,18 @@
+{
+    "name": "模糊地带",
+    "description": "谈论性别与性取向话题，呈现自我的束缚与被束缚",
+    "author": "Brook",
+    "color": "#2d6bd5",
+    "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4ec0f8fa-0646-40f9-a9d4-6fc709516ec0/cover.jpg?v=2",
+    "url": "https://mohudidai.com",
+    "feed": "https://mohudidai.com/rss",
+    "apple": "https://itunes.apple.com/podcast/id1456528675",
+    "google": "https://play.google.com/music/m/Im3ascav4tv2awfdush6jbsslra",
+    "spotify": "https://open.spotify.com/show/2aAzNycmYZr5WePosNUdOc",
+    "overcast": "https://overcast.fm/itunes1456528675",
+    "pcast": "",
+    "castro": "https://castro.fm/itunes/1456528675",
+    "breaker": null,
+    "typlog": false,
+    "blocked": false
+}
