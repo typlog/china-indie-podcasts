@@ -31,3 +31,5 @@ lostinst
 halfplus
 typechat
 zegpod
+infoier
+mohudidai
