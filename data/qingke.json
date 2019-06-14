@@ -1,0 +1,18 @@
+{
+  "name": "顷刻",
+  "description": "「少年如顷刻」：关于人生第一个四分位数时刻的多主题播客。",
+  "author": "小杨、小龚",
+  "color": "#132B58",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/c/c625f313-f670-4746-9fd9-58d46146fe2a/cover.jpg?v=4",
+  "url": "https://qingke.fireside.fm/",
+  "feed": "https://feeds.fireside.fm/qingke/rss",
+  "apple": "https://podcasts.apple.com/cn/podcast/%E9%A1%B7%E5%88%BB/id1445110991",
+  "google": null,
+  "spotify": "https://open.spotify.com/show/7Cp2UwjO62p5jAv1Mn2FET",
+  "overcast": null,
+  "pcast": null,
+  "castro": "https://castro.fm/podcast/9d186154-4c1f-406f-9fa9-168b39c10a80",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
