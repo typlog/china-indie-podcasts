@@ -1,0 +1,18 @@
+{
+  "name": "日语日语",
+  "description": "一档日语主题的短语音娱乐节目，由网站riyu.io制作播出。我们希望能帮助你发现进而独立体会日语乃至语言的趣味。",
+  "author": "riyu.io",
+  "color": "#02764F",
+  "logo": "http://static1.squarespace.com/static/560e8e11e4b0a8e48bb906be/t/563f0ec1e4b09215555053b9/1446973122022/1500w/riyu_riyu_color.jpg",
+  "url": "https://riyu.io/hibi/",
+  "feed": "https://riyu.squarespace.com/hibi?format=rss",
+  "apple": "https://podcasts.apple.com/us/podcast/id1050486022",
+  "google": "",
+  "spotify": "",
+  "overcast": "",
+  "pcast": "https://pca.st/y14g",
+  "castro": "",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
