@@ -1,0 +1,18 @@
+{
+  "name": "社会人科技评论",
+  "description": "《社会人科技评论》是一档非公益性却也没啥营利预期的科技评论媒体。 ",
+  "author": "王汉洋",
+  "color": "#CCCCCC",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/b/bcdeb9eb-7a8c-4a76-a424-1023c5d280b0/episodes/4/43e79ff4-4613-4629-b923-06b688a31392/cover.jpg",
+  "url": "http://techreview.social/",
+  "feed": "http://techreview.social/rss",
+  "apple": "https://pcr.apple.com/id1406122813",
+  "google": "",
+  "spotify": "",
+  "overcast": "",
+  "pcast": "",
+  "castro": "",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
