@@ -1,0 +1,19 @@
+{
+  "name": "Tech.Fusion",
+  "description": "一档科技主题播客节目，我们谈论有关互联网的一切",
+  "author": "MilkShake羊",
+  "color": "#FF6630",
+  "logo": "./logos/techfusion.png",
+  "url": "https://techfusionfm.com",
+  "feed": "https://techfusionfm.com/podcast.xml",
+  "apple": "https://podcasts.apple.com/cn/podcast/id1202658654",
+  "google": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ipiouils7kq2tvqibapqnnwsm5u?t%3D%25E7%25A7%2591%25E6%258A%2580%25E8%2581%259A%25E5%258F%2598_%28TechFusion%29%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16",
+  "spotify": "",
+  "overcast": "https://overcast.fm/itunes1202658654",
+  "pcast": "http://pca.st/podcast/28fcd200-cc7c-0134-10da-25324e2a541d",
+  "castro": null,
+  "breaker": null,
+  "liqi": null,
+  "typlog": false,
+  "blocked": false
+}
