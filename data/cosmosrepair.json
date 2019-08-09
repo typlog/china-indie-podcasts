@@ -1,0 +1,15 @@
+{
+  "name": "禅与宇宙维修艺术",
+  "description": "禅与宇宙维修艺术（cosmosrepair.com）播客节目。“晚风说”是禅与宇宙维修艺术公众号及播客下的人物对话系列。我们无意成就伟大，只是想在这个世界上好好玩耍。希望它对你，常常陪伴，偶尔启发。我们的播客系列还在测试阶段，欢迎提出意见及贡献力量（hi@beslab.xyz）。",
+  "author": "cosmosrepair",
+  "color": "#3E5529",
+  "logo": "http://ww4.sinaimg.cn/large/006tNc79ly1g5sd2y9bybj30u00u0wkn.jpg",
+  "url": "https://podcasts.cosmosrepair.com",
+  "feed": "https://podcasts.cosmosrepair.com/json",
+  "apple": "https://podcasts.apple.com/cn/podcast/%E7%A6%85%E4%B8%8E%E5%AE%87%E5%AE%99%E7%BB%B4%E4%BF%AE%E8%89%BA%E6%9C%AF/id1475254987",
+  "google": null,
+  "spotify": "https://open.spotify.com/show/5SfJxMPMoqbGc2zG8ouiuD?si=QcavW9VXQiKTkTuBuWU8nA",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
