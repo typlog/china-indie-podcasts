@@ -1,0 +1,18 @@
+{
+  "name": "告别摄影",
+  "description": "像谈论一场电影一样谈论摄影。",
+  "author": "蔡骁、甜食",
+  "color": "#000000",
+  "logo": "https://i.typcdn.com/byebyephotography/8434577825_55052.png",
+  "url": "https://byebye.photography/",
+  "feed": "https://byebye.photography/episodes/feed.xml",
+  "apple": "",
+  "google": "",
+  "spotify": "",
+  "overcast": "",
+  "pcast": "",
+  "castro": "https://castro.fm/podcast/f2466fbf-8d56-4497-8bef-9d171d87ced6",
+  "breaker": null,
+  "typlog": true,
+  "blocked": true
+}
