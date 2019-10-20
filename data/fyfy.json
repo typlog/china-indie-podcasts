@@ -1,0 +1,18 @@
+{
+  "name": "枫言枫语",
+  "description": "一档由枫影 Justin Yan 主持的科技灌水播客。",
+  "author": "枫影 Justin Yan",
+  "color": "#A72ED5",
+  "logo": "https://fyfy.fm/images/logo.png",
+  "url": "https://fyfy.fm/",
+  "feed": "https://fyfy.fm/feed/podcast",
+  "apple": "https://podcasts.apple.com/podcast/id1069600190",
+  "google": "https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/google_podcasts@2x.png",
+  "spotify": "https://open.spotify.com/show/7K4KZoidZvhlIpIbSj17QG",
+  "overcast": "https://overcast.fm/itunes1069600190",
+  "pcast": null,
+  "castro": "https://castro.fm/podcast/4a062422-5820-4b12-bdcf-7be6f67b1ba1",
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+}
