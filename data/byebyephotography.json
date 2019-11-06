@@ -6,13 +6,13 @@
   "logo": "https://i.typcdn.com/byebyephotography/8434577825_55052.png",
   "url": "https://byebye.photography/",
   "feed": "https://byebye.photography/episodes/feed.xml",
-  "apple": "",
-  "google": "",
-  "spotify": "",
-  "overcast": "",
-  "pcast": "",
-  "castro": "https://castro.fm/podcast/f2466fbf-8d56-4497-8bef-9d171d87ced6",
+  "apple": "https://podcasts.apple.com/podcast/id1476075004",
+  "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9ieWVieWUucGhvdG9ncmFwaHkvZXBpc29kZXMvZmVlZC54bWw=",
+  "spotify": "https://open.spotify.com/show/5wWSa1RVSBblPaVlQD3wnc",
+  "overcast": "https://overcast.fm/itunes1476075004",
+  "pcast": "https://pca.st/50Hg",
+  "castro": "https://castro.fm/itunes/1476075004",
   "breaker": null,
   "typlog": true,
-  "blocked": true
+  "blocked": false
 }
