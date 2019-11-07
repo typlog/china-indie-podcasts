@@ -1,0 +1,18 @@
+{
+    "name": "ggtalk",
+    "description": "程序员的闲聊节目",
+    "author": "梁杰_numbbbbb",
+    "color": "#282923",
+    "logo": "https://talk.swift.gg/static/logo.jpg",
+    "url": "https://talk.swift.gg/",
+    "feed": "https://talkcdn.swift.gg/static/rss.xml",
+    "apple": "https://podcasts.apple.com/cn/podcast/ggtalk/id1440443653",
+    "google": null,
+    "spotify": null,
+    "overcast": null,
+    "pcast": null,
+    "castro": null,
+    "breaker": null,
+    "typlog": false,
+    "blocked": true
+  }
