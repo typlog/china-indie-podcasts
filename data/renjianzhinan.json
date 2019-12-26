@@ -1,0 +1,18 @@
+{
+  "name": "人间指南",
+  "description": "",
+  "author": "hb",
+  "color": "#000000",
+  "logo": "https://renjianzhinan.xyz/images/podcast_logo_320.png",
+  "url": "https://renjianzhinan.xyz/",
+  "feed": "https://renjianzhinan.xyz/podcast.xml",
+  "apple": "",
+  "google": null,
+  "spotify": null,
+  "overcast": "https://overcast.fm/p1292963-DY3V3d",
+  "pcast": "https://pca.st/6sPkwd",
+  "castro": "https://castro.fm/podcast/034ced51-be62-44ae-aac1-7e48d4dd2a40",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}

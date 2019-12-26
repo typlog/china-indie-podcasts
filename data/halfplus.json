@@ -1,0 +1,18 @@
+{
+    "name": "Half+ 一知半解",
+    "description": "We talk nothing.",
+    "author": "Microhoo, Sol, um1ng",
+    "color": "#598D78",
+    "logo": "https://i.typcdn.com/halfplus/8444425610_07119.jpg",
+    "url": "http://half.plus/",
+    "feed": "http://half.plus/feed.xml",
+    "apple": "https://podcasts.apple.com/podcast/id1460692135",
+    "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9oYWxmcGx1cy50eXBsb2cuaW8vZXBpc29kZXMvZmVlZC54bWw",
+    "spotify": "https://open.spotify.com/show/18pxybaR6gVOi8utxFv2ZC",
+    "overcast": "https://overcast.fm/itunes1460692135",
+    "pcast": "https://pca.st/84fV",
+    "castro": null,
+    "breaker": "https://www.breaker.audio/zhi-ban-jie",
+    "typlog": true,
+    "blocked": false
+}

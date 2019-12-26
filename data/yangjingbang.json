@@ -1,0 +1,18 @@
+{
+  "name": "洋泾浜",
+  "description": "我是洋泾浜，请侬大声笑。",
+  "author": "米罗、甜食",
+  "color": "#d8d8d8",
+  "logo": "https://images.squarespace-cdn.com/content/v1/58ea8ed9a5790a5591021187/1575908778377-MDADL36VP18FLVVCE1I1/ke17ZwdGBToddI8pDm48kI3hJ5pAPOd6pc87Sly42LJZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEkleg76EVoXggQjzNibqrpaWI7GJDvValm9kw-NIugPj-3CTWZQ124CTRPXn-dnvM/2019-12-09_193614+%281%29.png",
+  "url": "https://yangjingbang.fm/",
+  "feed": "https://www.yangjingbang.fm/?format=rss",
+  "apple": "https://podcasts.apple.com/podcast/id1225185816",
+  "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9taWxvLWNodWFuZy5zcXVhcmVzcGFjZS5jb20vYmxvZz9mb3JtYXQ9cnNz",
+  "spotify": null,
+  "overcast": "https://overcast.fm/itunes1225185816",
+  "pcast": "https://pca.st/itunes/1225185816",
+  "castro": "https://castro.fm/itunes/1225185816",
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+}

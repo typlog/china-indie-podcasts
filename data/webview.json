@@ -1,0 +1,19 @@
+{
+
+  "name": "WEB VIEW",
+  "description": "不囿于 WEB，不止于 VIEW",
+  "author": "王隐，敬礼",
+  "color": "#8b1104",
+  "logo": "https://podcast.webview.tech/podblog/2019-06-08-%E6%96%B0logo.png",
+  "url": "https://webview.tech",
+  "feed": "https://webview.tech/feed/podcast/",
+  "apple": "https://podcasts.apple.com/cn/podcast/web-view/id1401362237",
+  "spotify": "https://open.spotify.com/show/5ZiKKzJBxJPv5R9hSGV2O7?si=I-qu2x8ETKent7BDOPIluQ",
+  "overcast": "https://overcast.fm/itunes1401362237/web-view",
+  "pcast":  "https://pca.st/gfXT",
+  "castro":  "https://castro.fm/podcast/206995d3-8589-4b27-ab34-30fb81be5b30",
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+
+}

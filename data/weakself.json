@@ -1,0 +1,18 @@
+{
+  "name": "weak self",
+  "description": "三個在 iOS 開發圈打滾的台灣工程師，專為 Apple/iOS 開發者而製作的 Podcast。",
+  "author": "一三、波肥、喬喬",
+  "color": "#FC5FA3",
+  "logo": "https://weakself.dev/og_image.jpg",
+  "url": "https://weakself.dev/",
+  "feed": "https://anchor.fm/s/c914964/podcast/rss",
+  "apple": "https://podcasts.apple.com/tw/podcast/weak-self/id1474108801",
+  "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz",
+  "spotify": "https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj",
+  "overcast": "https://overcast.fm/itunes1474108801/weak-self",
+  "pcast": "https://pca.st/9Z02",
+  "castro": "https://castro.fm/itunes/1474108801",
+  "breaker": "https://www.breaker.audio/weak-self",
+  "typlog": false,
+  "blocked": false
+}

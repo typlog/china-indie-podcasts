@@ -1,0 +1,19 @@
+{
+  "name": "Byte.Coffee",
+  "description": "一档播客以及咖啡本人",
+  "author": "MilkShake羊",
+  "color": "#FF6630",
+  "logo": "./logos/bytecoffe.jpg",
+  "url": "http://byte.coffee/",
+  "feed": "http://byte.coffee/feed/podcast/",
+  "apple": "https://itunes.apple.com/cn/podcast/byte-coffee/id1332974431?mt=2&at=1000lJNz&ct=1000lJNz",
+  "google": "",
+  "spotify": "",
+  "overcast": "https://overcast.fm/p751521-DHLYix",
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "liqi": "https://liqixpodcast.typlog.io/yong-engineer-de-shi-jiao-kui-tan-shi-jie-byte-c-833f588d",
+  "typlog": false,
+  "blocked": true
+}

@@ -1,0 +1,18 @@
+{
+  "name": "内核恐慌",
+  "description": "《内核恐慌》是一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。",
+  "author": "Rio、吴涛",
+  "color": "#FF6630",
+  "logo": "https://kernelpanic.fm/assets/icon-kernelpanic.svg",
+  "url": "https://kernelpanic.fm/",
+  "feed": "https://kernelpanic.fm/feed",
+  "apple": "https://itunes.apple.com/cn/podcast/id928916244",
+  "google": "",
+  "spotify": "",
+  "overcast": "",
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+}

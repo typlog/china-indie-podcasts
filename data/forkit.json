@@ -1,0 +1,18 @@
+{
+  "name": "Fork it",
+  "description": "第一个聊区块链技术的中文播客",
+  "author": "Terry、Jan、Daniel、Kevin",
+  "color": "#51CCD4",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/3/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/cover_small.jpg",
+  "url": "https://forkit.fm/",
+  "feed": "https://forkit.fm/rss",
+  "apple": "https://itunes.apple.com/cn/podcast/fork-it/id1440578671",
+  "google": "",
+  "spotify": "",
+  "overcast": "",
+  "pcast": null,
+  "castro": "https://castro.fm/podcast/c1368c71-6871-4d8e-8860-a154db765bf8",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}

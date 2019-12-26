@@ -1,0 +1,18 @@
+{
+  "name": "交差点",
+  "description": "科技人文主题播客",
+  "author": "Jesse, Alex, 林檎",
+  "color": "#000000",
+  "logo": "https://jiaocha.io/assets/logo/logo.jpg",
+  "url": "https://jiaocha.io/",
+  "feed": "https://jiaocha.io/feed.xml",
+  "apple": "https://podcasts.apple.com/podcast/id1395745599",
+  "google": null,
+  "spotify": null,
+  "overcast": "https://overcast.fm/itunes1395745599",
+  "pcast": "http://pca.st/itunes/1395745599",
+  "castro": "https://castro.fm/podcast/b860b89f-97de-413a-b607-36092cf1fd23",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}

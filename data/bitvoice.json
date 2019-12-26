@@ -1,0 +1,19 @@
+{
+  "name": "比特新声",
+  "description": "中文科技类播客",
+  "author": "郝海龙、有才",
+  "color": "#FF6630",
+  "logo": "https://i.typcdn.com/bitvoice/8446580582_247966.png",
+  "url": "https://bitvoice.banlan.show/",
+  "feed": "https://bitvoice.banlan.show/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/podcast/id948011382",
+  "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9iaXR2b2ljZS5iYW5sYW4uc2hvdy9lcGlzb2Rlcy9mZWVkLnhtbA",
+  "spotify": "https://open.spotify.com/show/5582LPfK686phArDMokkuK",
+  "overcast": "https://overcast.fm/itunes948011382",
+  "pcast": "https://pca.st/551E",
+  "castro": "https://castro.fm/itunes/948011382",
+  "breaker": "https://www.breaker.audio/bi-te-xin-sheng",
+  "liqi": "https://liqixpodcast.typlog.io/li-qi-xbo-ke-fang-tan-003-yi-zhi-yi-lai-zuo-yi-f230effe",
+  "typlog": true,
+  "blocked": true
+}

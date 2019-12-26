@@ -1,0 +1,18 @@
+{
+  "name": "UX Coffee 设计咖",
+  "description": "设计无处不在。在这个节目里，我们试图通过和设计这个世界的人们交谈，去探寻创造的过程、感受设计的力量。",
+  "author": "Riceman、Hoka、帆啊帆",
+  "color": "#FF6630",
+  "logo": "https://uxcoffee.com/images/logo_square.png",
+  "url": "https://www.uxcoffee.com/",
+  "feed": "https://feeds.simplecast.com/FDAKY1AF",
+  "apple": "https://podcasts.apple.com/cn/podcast/ux-coffee-%E8%AE%BE%E8%AE%A1%E5%92%96/id1099551615",
+  "google": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9GREFLWTFBRg",
+  "spotify": "https://open.spotify.com/show/3Nx0Z9ZkIsJAWg4gGv2tWA",
+  "overcast": "https://overcast.fm/itunes1099551615/ux-coffee",
+  "pcast": null,
+  "castro": "https://castro.fm/podcast/b36ca844-65c6-4ac3-9624-8570e3bde971",
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+}

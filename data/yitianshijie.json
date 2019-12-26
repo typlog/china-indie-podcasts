@@ -1,0 +1,17 @@
+{
+  "name": "一天世界",
+  "description": "一天世界，昆乱不挡。",
+  "author": "不鳥萬如一",
+  "color": "#D3728D",
+  "logo": "./logos/yitianshijie.png",
+  "url": "https://yitianshijie.net/",
+  "feed": "https://yitianshijie.net/rss",
+  "apple": "https://podcasts.apple.com/podcast/id1099645400",
+  "google": null,
+  "spotify": null,
+  "overcast": "https://overcast.fm/itunes1099645400",
+  "pcast": "http://pca.st/itunes/1099645400",
+  "castro": "https://castro.fm/podcast/7b953900-6471-4629-a1bc-1c7167a51352",
+  "breaker": "https://www.breaker.audio/tian-shi-jie",
+  "typlog": false
+}

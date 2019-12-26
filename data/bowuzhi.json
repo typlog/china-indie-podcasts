@@ -1,0 +1,19 @@
+{
+  "name": "博物志",
+  "description": "一档关于博物馆的播客。",
+  "author": "婉莹、大黄、小爱",
+  "color": "#FF6630",
+  "logo": "https://static1.squarespace.com/static/58fb8da89de4bb2fd7345f73/t/5b87b395575d1f7d53ac4d14/1558258018186/?format=1500w",
+  "url": "https://bowuzhi.fm/about",
+  "feed": "https://museelogue.fireside.fm/rss",
+  "apple": "",
+  "google": "",
+  "spotify": "",
+  "overcast": "https://overcast.fm/",
+  "pcast": null,
+  "castro": "http://supertop.co/castro/",
+  "breaker": null,
+  "liqi": "https://liqixpodcast.typlog.io/li-qi-xbo-ke-fang-tan-wo-zuo-liao-yi-dang-yan-f-b3cefbb1",
+  "typlog": false,
+  "blocked": true
+}

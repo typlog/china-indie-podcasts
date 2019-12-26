@@ -12,6 +12,6 @@ module.exports = {
   },
   data: {
     env: process.env.NODE_ENV,
-    podcasts: require('./podcasts.json')
+    podcasts: require('./'),
   },
 }
