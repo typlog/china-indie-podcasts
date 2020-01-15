@@ -1,0 +1,16 @@
+{
+  "name": "九木侃",
+  "description": "一档闲聊博客 | Somewhere between nowhere & goodbye",
+  "author": "九木",
+  "color": "#b37700",
+  "logo": "https://i.typlog.com/jiumutalk/8420987609_132179.png",
+  "url": "https://jiumutalk.com/",
+  "feed": "https://jiumutalk.com/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/cn/podcast/id1468634024",
+  "spotify": "https://open.spotify.com/show/44v5Sq4nYzWvpdVzktvaz4",
+  "overcast": "https://overcast.fm/itunes1468634024",
+  "castro": "https://castro.fm/itunes/1468634024",
+  "breaker": null,
+  "typlog": true,
+  "blocked": false
+}
