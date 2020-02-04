@@ -1,0 +1,18 @@
+{
+  "name": "业余玩家",
+  "description": "一档关注影像、科技的播客，我们关注艺术和技术背后的故事。",
+  "author": "麦克白,徐日天",
+  "color": "#4B4A4F",
+  "logo": "http://static.libsyn.com/p/assets/9/f/b/6/9fb6574bac38caca/5273D62A-635E-4322-8CDA-9F85AF4E53D2.jpeg",
+  "url": "https://www.yeyuwanjia.net",
+  "feed": "http://amateurplayer.libsyn.com/rss",
+  "apple": "https://podcasts.apple.com/podcast/id1493115626",
+  "google": "https://play.google.com/music/m/Irkuqxglelopfs2y6qy4wio74dq",
+  "spotify": "https://open.spotify.com/show/5e6nrrZnHubloYflGEI4IJ",
+  "overcast": "https://overcast.fm/itunes1493115626",
+  "pcast": null,
+  "castro": "https://castro.fm/itunes/1493115626",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
