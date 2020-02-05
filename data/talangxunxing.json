@@ -1,0 +1,18 @@
+{
+  "name": "踏浪寻星广播电台",
+  "description": "踏浪寻星社（Tide and Star，TAS Club）希望能在天与海之间，与大家分享天空与海洋的梦想故事。",
+  "author": "肉壳",
+  "color": "#003882",
+  "logo": "https://tasria.com/wp-content/uploads/2019/12/logo_t_3000.png",
+  "url": "https://tasria.com/",
+  "feed": "https://tasria.com/feed/podcast",
+  "apple": "https://podcasts.apple.com/podcast/id1492381697",
+  "google": "https://play.google.com/music/m/Ibz7hcy2b2564rmquvmcgckpqca",
+  "spotify": "https://open.spotify.com/show/6QxwnRyxjDDqVnVQ0YGF1L",
+  "overcast": "",
+  "pcast": "",
+  "castro": "",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
