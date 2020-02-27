@@ -1,0 +1,30 @@
+name: podlist auto indexing
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: macOS-latest
+
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: Generate index.txt
+      run: |
+        sh update_data_indx.sh
+      shell: bash
+    - name: Commit files
+      run: |
+        git config --local user.email ""
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "update index.txt"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
