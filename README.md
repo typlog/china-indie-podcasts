@@ -9,7 +9,6 @@
 ## 如何提交
 
 在 `data/` 里添加相应播客的信息，使用 JSON 格式。
-然后执行 `sh update_data_index.sh` 即可同步 `index.txt` 文件。
 
 ---
 
