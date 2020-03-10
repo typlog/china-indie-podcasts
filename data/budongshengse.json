@@ -1,0 +1,18 @@
+{
+  "name": "不动声色",
+  "description": "不增不减，不垢不净。",
+  "author": "BDS",
+  "color": "#FF6630",
+  "logo": "https://i.typlog.com/alldirections/8417108144_3358345.png",
+  "url": "https://bds.wtf/",
+  "feed": "https://bds.wtf/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/podcast/id1465862950",
+  "google": "https://podcasts.google.com/?feed=aHR0cHM6Ly9hbGxkaXJlY3Rpb25zLnh5ei9lcGlzb2Rlcy9mZWVkLnhtbA%3D%3D",
+  "spotify": "https://open.spotify.com/show/5jWQV0FHCMFV6ScreTThl7",
+  "overcast": "https://overcast.fm/itunes1465862950",
+  "pcast": "https://pca.st/k4M2",
+  "castro": "https://castro.fm/podcast/bf7a7645-f122-44f4-b52c-0e27e0edc0d9",
+  "breaker": null,
+  "typlog": true,
+  "blocked": false
+}
