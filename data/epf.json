@@ -1,0 +1,18 @@
+{
+  "name": "耳旁风",
+  "description": "从有趣的人物出发，描述有趣事物以及生活。",
+  "author": "EPF",
+  "color": "#FF6630",
+  "logo": "https://i.typlog.com/erpf/8416254153_150396.png",
+  "url": "https://epf.xyz/",
+  "feed": "https://epf.xyz/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/podcast/id1482129723",
+  "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9lcGYueHl6L2VwaXNvZGVzL2ZlZWQueG1s",
+  "spotify": "https://open.spotify.com/show/43WD52QXzqeU8FfItTNi3l",
+  "overcast": "https://overcast.fm/itunes1482129723",
+  "pcast": "https://pca.st/1to83zhr",
+  "castro": "https://castro.fm/podcast/8ec91904-d039-4583-8be3-dce32c2813ad",
+  "breaker": null,
+  "typlog": true,
+  "blocked": false
+}
