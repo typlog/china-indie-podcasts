@@ -1,0 +1,19 @@
+{
+  "name": "两个 iT 大叔",
+  "description": "本节目由「两个 iT 大叔」主持，会聊一些 IT 互联网、生活、旅行、创业等方面的话题。",
+  "author": "Glif & Herock",
+  "color": "#414248",
+  "logo": "http://podcast.lqdimg.com/icon/2dashu.png",
+  "url": "https://itdashu.podssible.com",
+  "feed": "https://itdashu.podssible.com/feeds/rss.xml",
+  "apple": "https://podcasts.apple.com/cn/podcast/liang-ge-it-da-shu/id1173328438",
+  "google": null,
+  "spotify": "https://open.spotify.com/show/3C5Fsp3NOmXQBa8XVq92PP?si=tnKQXG_zTjSBsMh4E_5AfA",
+  "overcast": "https://overcast.fm/itunes1173328438/it",
+  "pcast": null,
+  "castro": "https://castro.fm/podcast/925fe45f-6258-4acd-a37f-3e87bb4d6e00",
+  "breaker": "https://www.breaker.audio/liang-ge-it-da-shu",
+  "liqi": null,
+  "typlog": false,
+  "blocked": false
+}
