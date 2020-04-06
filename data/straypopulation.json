@@ -1,0 +1,19 @@
+{
+  "name": "流动人口 Stray Population",
+  "description": "流动人口 Stray Population是当今信息容量过载的社会催生出来的产物，是一档泛科技类播客，欢迎大家使用泛用型播客客户端进行收听。",
+  "author": "姜笛",
+  "color": "",
+  "logo": "http://static.cscript.site/podcast_green.png",
+  "url": "https://podcast.cscript.site/",
+  "feed": "https://podcast.cscript.site/podcast.xml",
+  "spotify": "https://open.spotify.com/show/6TFDb9af4hAbU4Gw9oJf9M?si=we13rmqfRKmOhBxE-AbyfA",
+  "overcast": null,
+  "pcast": "https://pca.st/podcast/53f07870-517f-0138-97a0-0acc26574db2",
+  "castro": "https://castro.fm/podcast/6cec4d36-23e2-49d7-b29d-999c17007ff0",
+  "breaker": null,
+  "apple": null,
+  "google": null,
+  "liqi": "",
+  "typlog": false,
+  "blocked": false
+}
