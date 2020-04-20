@@ -1,7 +1,7 @@
 {
-  "name": "2082FM",
-  "description": "2082FM 是一档由三个处在不同时区的好友共同制作的生活与文化类播客节目。",
-  "author": "鹿人, 隔夜小王, 刘主任",
+  "name": "2082 | 三个时区的隔空对话",
+  "description": "一档由三个处在不同时区的好友共同制作的沙龙型闲谈播客。",
+  "author": "鹿人、隔夜小王、刘主任",
   "color": "1E051F",
   "logo": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo/2996657/2996657-1579286082441-81ee8619cf7b9.jpg",
   "url": "https://anchor.fm/2082",
@@ -15,6 +15,6 @@
   "breaker": "https://www.breaker.audio/2082",
   "Stitcher": "https://www.stitcher.com/podcast/2082",
   "liqi": "",
-  "typlog": false,
+  "typlog": true,
   "blocked": true
 }
