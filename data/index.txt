@@ -32,6 +32,7 @@ kernelpanic
 lostinst
 maimishuo
 mohudidai
+nomoney
 pretro
 productivity
 pythonhunter
