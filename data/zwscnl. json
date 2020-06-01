@@ -1,0 +1,19 @@
+{
+  "name": "有所顾忌",
+  "description": "一个有所顾忌的简体中文播客",
+  "author": "Various Artists"
+  "color": "#6D6C6C",
+  "logo": "https://i.typlog.com/zwsc/8409949685_207288.jpg",
+  "url": "https://zwsc.nl",
+  "feed": "https://zwsc.nl/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/us/podcast/%E6%9C%89%E6%89%80%E9%A1%BE%E5%BF%8C/id1514566076",
+  "google": "https://podcasts.google.com/?feed=aHR0cHM6Ly96d3NjLm5sL2VwaXNvZGVzL2ZlZWQueG1s”,
+  "spotify": "",
+  "overcast": "",
+  "pcast": null,
+  "castro": "",
+  "breaker": null,
+  "liqi": "",
+  "typlog": true
+  "blocked": true
+}
