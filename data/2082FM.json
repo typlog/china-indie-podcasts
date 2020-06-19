@@ -1,9 +1,9 @@
 {
-  "name": "2082 | 三个时区的隔空对话",
-  "description": "一档由三个处在不同时区的好友共同制作的沙龙型闲谈播客。",
+  "name": "2082 | 超时空漫谈",
+  "description": "一档由三个处在不同时区的好友共同制作的沙龙型漫谈播客。",
   "author": "鹿人、隔夜小王、刘主任",
-  "color": "1E051F",
-  "logo": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo/2996657/2996657-1579286082441-81ee8619cf7b9.jpg",
+  "color": "6D0000",
+  "logo": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo/2996657/2996657-1589720617326-f5cd6773e93b9.jpg",
   "url": "https://anchor.fm/2082",
   "feed": "https://anchor.fm/s/12751fa4/podcast/rss",
   "apple": "https://podcasts.apple.com/ca/podcast/2082/id1495389318",
@@ -16,5 +16,5 @@
   "Stitcher": "https://www.stitcher.com/podcast/2082",
   "liqi": "",
   "typlog": true,
-  "blocked": true
+  "blocked": false
 }
