@@ -22,6 +22,7 @@ etw
 forkit
 fyfy
 ggtalk
+groundradio
 halfplus
 hardimage
 infoier
@@ -47,6 +48,7 @@ techreviewsocial
 theue
 typechat
 uxcoffee
+vibration
 weakself
 webview
 wzd
