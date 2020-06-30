@@ -12,6 +12,7 @@ bukelilun
 busang
 byebyephotography
 bytecoffee
+casticle
 cosmosrepair
 crazycapital
 culturepotato
@@ -33,6 +34,7 @@ kernelpanic
 lostinst
 maimishuo
 mohudidai
+nicktalk
 pretro
 productivity
 pythonhunter
