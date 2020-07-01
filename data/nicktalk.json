@@ -1,0 +1,18 @@
+{
+  "name": "NickTalk",
+  "description": "格物致知 · 興趣相投",
+  "author": "Nick",
+  "color": "#FFFFFF",
+  "logo": "https://images.squarespace-cdn.com/content/55af9e1be4b052e82d9ad175/1575993916927-4PPUQSUNO49LALEQXVIF/%E5%B0%BC%E5%85%8B%E9%80%83%E8%AA%B2+logo.jpg?format=750w&content-type=image%2Fjpeg",
+  "url": "https://www.nicktalk.com/",
+  "feed": "https://feeds.transistor.fm/nicktalk",
+  "apple": null,
+  "google": null,
+  "spotify": null,
+  "overcast": null,
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
