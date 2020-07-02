@@ -1,0 +1,18 @@
+{
+  "name": "艺术有读",
+  "description": "由两位不务正业的艺术圈人士主持的读书跑题节目",
+  "author": "Sammi,胡湖",
+  "color": "#FFFFFF",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/7/787e0967-492f-4758-8f69-237a59ca035c/cover_small.jpg",
+  "url": "https://artispoison.com/",
+  "feed": "https://artispoison.com/rss",
+  "apple": "https://itunes.apple.com/hk/podcast/%E8%89%BA%E6%9C%AF%E6%9C%89%E8%AF%BB/id1342040716?l=en&mt=2",
+  "google": null,
+  "spotify": null,
+  "overcast": null,
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
