@@ -7,12 +7,12 @@
   "url": "https://buzaichang.xyz/",
   "feed": "https://buzaichang.xyz/episodes/feed.xml",
   "apple": "https://podcasts.apple.com/podcast/id1495587567",
-  "google"：null,
+  "google": null,
   "spotify": "https://open.spotify.com/show/6poQd4AaQ7In4Tx9PRGFp2?si=Hs42VHywSBy5beBisPVl9Q",
   "overcast": "https://overcast.fm/itunes1495587567",
   "pcast": "https://pca.st/i5ay3h52",
   "castro": "https://castro.fm/itunes/1495587567",
   "breaker": null,
   "typlog": true,
-  "blocked": Flase
+  "blocked": false
 }
