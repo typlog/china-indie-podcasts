@@ -7,13 +7,13 @@
   "url": "http://byte.coffee/",
   "feed": "http://byte.coffee/feed/podcast/",
   "apple": "https://itunes.apple.com/cn/podcast/byte-coffee/id1332974431?mt=2&at=1000lJNz&ct=1000lJNz",
-  "google": "",
-  "spotify": "",
+  "google": null,
+  "spotify": "https://open.spotify.com/show/5f0tc52KhmZFU84qrEsYaB?si=LuLx2qLZRdqR_dyJd5V4Mw",
   "overcast": "https://overcast.fm/p751521-DHLYix",
-  "pcast": null,
-  "castro": null,
+  "pcast": "https://pca.st/podcast/44d38ae0-e131-0137-b6cd-0acc26574db2",
+  "castro": "https://castro.fm/podcast/f3f54f92-7416-46d7-b07f-608f0b532c9a",
   "breaker": null,
   "liqi": "https://liqixpodcast.typlog.io/yong-engineer-de-shi-jiao-kui-tan-shi-jie-byte-c-833f588d",
   "typlog": false,
-  "blocked": true
+  "blocked": false
 }
