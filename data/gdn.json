@@ -1,0 +1,18 @@
+{
+  "name": "设计药电",
+  "description": "听到设计中的商业思考",
+  "author": "高立、小彦",
+  "color": "#FFFFFF",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4bc59802-5764-488e-baaf-f2f3b64eb05e/cover_small.jpg",
+  "url": "http://gdn.design/",
+  "feed": "http://gdn.design/rss",
+  "apple": "https://itunes.apple.com/cn/podcast/design-protein/id1086515768",
+  "google": null,
+  "spotify": null,
+  "overcast": null,
+  "pcast": null,
+  "castro": "https://castro.fm/itunes/1086515768",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
