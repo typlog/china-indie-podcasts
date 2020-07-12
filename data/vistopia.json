@@ -1,0 +1,18 @@
+{
+  "name": "八分",
+  "description": "知识只求八分饱",
+  "author": "梁文道",
+  "color": "#91B6D0",
+  "logo": "http://cdn.vistopia.com.cn/1535426548361.png",
+  "url": "https://shop.vistopia.com.cn/detail?id=4z4Ew",
+  "feed": "https://api.vistopia.com.cn/rss/program/11.xml",
+  "apple": "https://podcasts.apple.com/podcast/id1492414487",
+  "google": "https://podcasts.google.com/?feed=aHR0cHM6Ly9hcGkudmlzdG9waWEuY29tLmNuL3Jzcy9wcm9ncmFtLzExLnhtbA==",
+  "spotify": null,
+  "overcast": "https://overcast.fm/itunes1492414487",
+  "pcast": "https://pca.st/itunes/1492414487",
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
