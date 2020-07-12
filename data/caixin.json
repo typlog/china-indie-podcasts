@@ -1,0 +1,18 @@
+{
+  "name": "财新Morning Call",
+  "description": "唤醒你的资讯早餐",
+  "author": "财新网",
+  "color": "#FAF2DB",
+  "logo": "http://img.caixin.com/2020-04-07/1586227776669764.jpg",
+  "url": "http://fm.caixin.com/m/cxmorningcall/index.html",
+  "feed": "https://other.caixin.com/itunes/101523091.xml",
+  "apple": "https://podcasts.apple.com/podcast/id1513312390",
+  "google": "https://podcasts.google.com/?feed=aHR0cHM6Ly9vdGhlci5jYWl4aW4uY29tL2l0dW5lcy8xMDE1MjMwOTEueG1s",
+  "spotify": null,
+  "overcast": "https://overcast.fm/itunes1513312390",
+  "pcast": "https://pca.st/itunes/1513312390",
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
