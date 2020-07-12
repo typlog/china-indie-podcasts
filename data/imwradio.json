@@ -1,0 +1,18 @@
+{
+  "name": "InMadWorld",
+  "description": "摄影有声",
+  "author": "",
+  "color": "#000000",
+  "logo": "https://i.typlog.com/inmadworld/8405547912_145931.png",
+  "url": "https://www.imwradio.com/",
+  "feed": "https://www.imwradio.com/episodes/feed.xml",
+  "apple": null,
+  "google": null,
+  "spotify": null,
+  "overcast": null,
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": true,
+  "blocked": false
+}
