@@ -1,0 +1,18 @@
+{
+  "name": "不摆了",
+  "description": "《不摆了》是一档朋友之间聊天，关于一切的播客。「Technology is the campfire around which we tell our stories」我们希望成为那堆篝火。",
+  "author": "",
+  "color": "#FFFFFF",
+  "logo": "https://bubaile.net/assets/img/bai.jpg",
+  "url": "https://bubaile.net/",
+  "feed": "http://www.ximalaya.com/album/11959527.xml",
+  "apple": null,
+  "google": null,
+  "spotify": null,
+  "overcast": null,
+  "pcast": "https://pca.st/8ia8",
+  "castro": "https://castro.fm/podcast/82ec8cf1-6e2d-4b4f-b03a-ed98a67f11f5",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
