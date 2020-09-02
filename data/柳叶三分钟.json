@@ -1,0 +1,13 @@
+
+{
+  "name": "柳叶三分钟",
+  "description": "前医药行业人力资源从业者带来的播客。声音可以传递美好，耳朵也能打开视野。",
+  "author": "木七果",
+  "color": "#FFFFFF",
+  "logo": "https://i.typlog.com/qiguo/8402004605_387961.jpg",
+  "url": "https://qiguo.typlog.io/",
+  "feed": "https://qiguo.typlog.io/episodes/feed.xml",
+  "breaker": null,
+  "typlog": true,
+  "blocked": false
+}
