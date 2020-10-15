@@ -1,0 +1,18 @@
+{
+  "name": "Casticle",
+  "description": "一档探索并发现优质单期英文播客的中文节目",
+  "author": "糊糊",
+  "color": "#FFFFFF",
+  "logo": "https://images.squarespace-cdn.com/content/5b38e622b98a784416b354c2/1550484472377-UMH8K2PWEBEE32QRSF7H/Casticle-square.png?content-type=image%2Fpng",
+  "url": "https://casticle.fm/",
+  "feed": "https://casticle.fireside.fm/rss",
+  "apple": "https://itunes.apple.com/cn/podcast/casticle/id1453402890?mt=2",
+  "google": null,
+  "spotify": null,
+  "overcast": null,
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}

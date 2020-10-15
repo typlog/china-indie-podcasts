@@ -1,0 +1,18 @@
+{
+  "name": "道听途说",
+  "description": "假艺术节的独立播客项目",
+  "author": "Orange",
+  "color": "#FFFFFF",
+  "logo": "https://i.typlog.com/fakefestival/qG/tywgM5J0PjQWFZp-sK3A.jpg",
+  "url": "https://fakefestival.org/",
+  "feed": "https://fakefestival.org/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/cn/podcast/id1448029483",
+  "google": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mYWtlZmVzdGl2YWwub3JnL2VwaXNvZGVzL2ZlZWQueG1s",
+  "spotify": "https://open.spotify.com/show/4fimR7CO3KjS194pjXkKOf",
+  "overcast": "https://overcast.fm/itunes1448029483",
+  "pcast": "https://pca.st/5EhI",
+  "castro": "https://castro.fm/podcast/3a2f30db-8bd8-4a3c-925b-79fed523dbed",
+  "breaker": "https://www.breaker.audio/dao-ting-tu-shuo",
+  "typlog": true,
+  "blocked": false
+}

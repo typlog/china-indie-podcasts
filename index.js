@@ -1,9 +1,9 @@
 const fs = require('fs')
 
-const data = fs.readFileSync('./data/index.txt', 'utf8')
-const podcasts = data.trim().split('\n').map(name => {
-  return require('./data/' + name + '.json')
+const podcasts = fs.readdirSync('./data').filter(name => {
+  return /\.json$/.test(name)
+}).map(name => {
+  return require('./data/' + name)
 })
-
 
 module.exports = podcasts

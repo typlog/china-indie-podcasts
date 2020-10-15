@@ -1,0 +1,18 @@
+{
+  "name": "Full of Mind",
+  "description": "心理学与 X 的跨界，聚焦于感知、情绪和思维",
+  "author": "小果汁",
+  "color": "#FFFFFF",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/d/d46af9dd-16b7-4c48-80d1-366530653afa/cover.jpg",
+  "url": "https://fom.fm/",
+  "feed": "https://fom.fm/rss",
+  "apple": "https://podcasts.apple.com/us/podcast/full-of-mind/id1493276657",
+  "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9mb20uZm0vcnNz",
+  "spotify": "https://open.spotify.com/show/4O52F84SjbEWC2gkuUnWmZ",
+  "overcast": "https://overcast.fm/itunes1493276657",
+  "pcast": "https://pca.st/ivdfcfa9",
+  "castro": "https://castro.fm/itunes/1493276657",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
