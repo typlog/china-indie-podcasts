@@ -1,0 +1,18 @@
+{
+  "name": "小声喧哗 Loud Murmurs",
+  "description": "小声喧哗是一档从影视文本中，以女性视角来观察和批判世界如何被塑造的播客, 由Ina, Izzy, Diaodiao和阿花四个旅美当代女青年主持。",
+  "author": "Ina, Izzy, Diaodiao, 阿花",
+  "color": "#F7C9C9",
+  "logo": "https://i.typlog.com/loudmurmursfm/8425979069_315848.jpg",
+  "url": "https://loudmurmursfm.com/",
+  "feed": "https://loudmurmursfm.com/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/us/podcast/loud-murmurs-%E5%B0%8F%E5%A3%B0%E5%96%A7%E5%93%97/id1355583279",
+  "google": null,
+  "spotify": "https://open.spotify.com/show/5Y7rOGNMAPYE02iuDVaE9X",
+  "overcast": null,
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": true,
+  "blocked": false
+}
