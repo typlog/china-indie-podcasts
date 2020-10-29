@@ -13,6 +13,6 @@
   "pcast": null,
   "castro": null,
   "breaker": null,
-  "typlog": true,
+  "typlog": false,
   "blocked": false
 }
