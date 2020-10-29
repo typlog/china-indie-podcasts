@@ -1,0 +1,18 @@
+{
+  "name": "星箭廣播",
+  "description": "《星箭廣播》關注「科技」和「創新故事」，歡迎你加入主持人 Titan 和 Maxine，以及不定期出現的特別來賓，一起探索科技和創新的邊界。",
+  "author": "Titan & Maxine",
+  "color": "#271756",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4e78dbd5-442d-4c37-9a9c-cb1ada3a3ac4/cover_small.jpg",
+  "url": "https://podcast.starrocket.io/",
+  "feed": "https://podcast.starrocket.io/rss",
+  "apple": "https://podcasts.apple.com/tw/podcast/%E6%98%9F%E7%AE%AD%E5%BB%A3%E6%92%AD/id1459758276",
+  "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0LnN0YXJyb2NrZXQuaW8vcnNz",
+  "spotify": "https://open.spotify.com/show/4Toah3FQiHxqcdCuoZ7jc9?si=sLdDVHz7QXeLnpkRuQanqw",
+  "overcast": null,
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
