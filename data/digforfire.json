@@ -1,0 +1,18 @@
+{
+  "name": "掘火电台",
+  "description": "掘火档案（http://www.digforfire.net) 有声部分。",
+  "author": "掘火众作者/制作人/封面设计师",
+  "color": "#000000",
+  "logo": "https://www.digforfire.net/wp-content/uploads/2011/10/DFFChristmaslogo-03-155x15.png",
+  "url": "https://www.digforfire.net/?cat=7",
+  "feed": "https://www.digforfire.net/digforfire_radio_feed.xml",
+  "apple": "https://podcasts.apple.com/podcast/id406140064",
+  "google": "https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuZGlnZm9yZmlyZS5uZXQvZGlnZm9yZmlyZV9yYWRpb19mZWVkLnhtbA==",
+  "spotify": null,
+  "overcast": "https://overcast.fm/itunes406140064",
+  "pcast": "https://pca.st/itunes/406140064",
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
