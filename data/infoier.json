@@ -3,9 +3,9 @@
   "description": "《设计乘数》是由用户体验设计师龚子仪发起的媒体计划，他相信多学科整合的力量能够给设计带来乘数效应。播客试图讨论科技、社会、经济、心理等诸多话题，用设计的角度参与并不断进行探索。",
   "author": "龚子仪",
   "color": "#818181",
-  "logo": "http://www.infoier.com/wp-content/uploads/2017/07/LOGO-uai-1032x1032.jpg",
-  "url": "http://www.infoier.com/",
-  "feed": "http://www.infoier.com/rss",
+  "logo": "https://www.infoier.com/wp-content/uploads/2017/07/LOGO-uai-1032x1032.jpg",
+  "url": "https://www.infoier.com/",
+  "feed": "https://www.infoier.com/rss",
   "apple": "https://podcasts.apple.com/cn/podcast/infoier-%E8%AE%BE%E8%AE%A1%E4%B9%98%E6%95%B0/id1255742135",
   "google": "",
   "spotify": "",
@@ -14,5 +14,5 @@
   "castro": "https://castro.fm/podcast/a7b371c5-40e8-4be5-b236-786f46123435",
   "breaker": null,
   "typlog": false,
-  "blocked": true
+  "blocked": false
 }
