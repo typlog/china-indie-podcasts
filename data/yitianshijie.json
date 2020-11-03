@@ -3,9 +3,9 @@
   "description": "一天世界，昆乱不挡。",
   "author": "不鳥萬如一",
   "color": "#D3728D",
-  "logo": "./logos/yitianshijie.png",
+  "logo": "https://i.typlog.com/yitianshijie/7W/tnVvKh-Z0xzWG-t4G7mA.png?x-oss-process=style/ss",
   "url": "https://yitianshijie.net/",
-  "feed": "https://yitianshijie.net/rss",
+  "feed": "https://yitianshijie.net/episodes/feed.xml",
   "apple": "https://podcasts.apple.com/podcast/id1099645400",
   "google": null,
   "spotify": null,
@@ -13,5 +13,5 @@
   "pcast": "http://pca.st/itunes/1099645400",
   "castro": "https://castro.fm/podcast/7b953900-6471-4629-a1bc-1c7167a51352",
   "breaker": "https://www.breaker.audio/tian-shi-jie",
-  "typlog": false
+  "typlog": true
 }
