@@ -1,0 +1,18 @@
+{
+  "name": "YetAnother 又是一个",
+  "description": "又是一档关于计算机科学、应用与八卦的播客节目",
+  "author": "CodeRemixer",
+  "color": "#FFFFFF",
+  "logo": "https://yetanother.fm/static/artwork-transparent.png",
+  "url": "https://yetanother.fm/",
+  "feed": "https://yetanother.fm/podcast.xml",
+  "apple": "https://podcasts.apple.com/jp/podcast/yet-another-%E5%8F%88%E6%98%AF%E4%B8%80%E4%B8%AA/id1521122825",
+  "google": "https://podcasts.google.com/feed/aHR0cHM6Ly95ZXRhbm90aGVyLmZtL3BvZGNhc3QueG1s",
+  "spotify": "https://open.spotify.com/show/380mYSLQYu6cYU7sxEL53q",
+  "overcast": "https://overcast.fm/itunes1521122825/yet-another",
+  "pcast": "https://pca.st/uj7qjzqd",
+  "castro": "https://castro.fm/podcast/880a8af4-db86-43e1-ae43-2120bbc65863",
+  "breaker": "https://www.breaker.audio/yet-another-you-shi-ge",
+  "typlog": false,
+  "blocked": false
+}
