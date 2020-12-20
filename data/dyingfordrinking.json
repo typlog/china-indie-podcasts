@@ -1,0 +1,17 @@
+{
+  "name": "推杯唤斩",
+  "description": "大家坐下来一起喝酒聊酒",
+  "author": "帽子雲,Zed,令国",
+  "color": "#002fa7",
+  "logo": "https://i.typlog.com/hatcloud/8400183029_091944.jpg",
+  "url": "https://talk.dyingfordrinking.com/",
+  "feed": "https://talk.dyingfordrinking.com/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/cn/podcast/%E6%8E%A8%E6%9D%AF%E5%94%A4%E6%96%A9/id1473143473",
+  "google": "https://www.google.com/podcasts?feed=aHR0cDovL3RhbGsuZHlpbmdmb3Jkcmlua2luZy5jb20vZXBpc29kZXMvZmVlZC54bWw%3D",
+  "spotify": "https://open.spotify.com/show/76uzwyishJppD5kLyYlKsn",
+  "overcast": "https://overcast.fm/itunes1473143473",
+  "pcast": "https://pca.st/m4erldlo",
+  "castro": "https://castro.fm/podcast/93239ef8-d3ef-44f4-966f-3a39dda1d071",
+  "typlog": true,
+  "blocked": false
+}

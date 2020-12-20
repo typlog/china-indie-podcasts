@@ -1,0 +1,18 @@
+{
+  "name": "Barney’s Talk",
+  "description": "《 Barney’s Talk 巴尼播起來 》是一檔「生活風格訪談」的網路廣播節目（Podcast），從時尚、藝術，聊到職場，人生觀，藉由不同來賓的經驗分享，開拓都會男女的視野，或許會為你帶來不同的思維跟觀點。",
+  "author": "Barney",
+  "color": "#F52A3D",
+  "logo": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/75/d5/06/75d50696-f8e0-967f-9c44-208ccd9ad3e2/mza_5652718198165928554.jpg/600x600bb.jpg",
+  "url": "https://www.barneystalk.taipei/",
+  "feed": "https://anchor.fm/s/b418bc8/podcast/rss",
+  "apple": "https://podcasts.apple.com/tw/podcast/barneys-talk/id1462243941?l=en",
+  "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iNDE4YmM4L3BvZGNhc3QvcnNz",
+  "spotify": "https://open.spotify.com/show/6DbKPyW4K5DHIl4kZKzxjk",
+  "overcast": null,
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}

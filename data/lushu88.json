@@ -1,0 +1,18 @@
+{
+  "name": "路书",
+  "description": "行万里路，读万卷书。《路书》是一档讨论艺术和历史的播客节目。我们追求一种行知合一的学习体验，行路，读书，知其然，更知其所以然。",
+  "author": "古村、瞿侠",
+  "color": "#325BAB",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/9/94c5a33e-da45-4dd9-acc2-52d4b924d520/cover_small.jpg",
+  "url": "https://lushu88.com/",
+  "feed": "https://lushu88.com/rss",
+  "apple": "https://itunes.apple.com/cn/podcast/%E8%B7%AF%E4%B9%A6/id1341991591?mt=2",
+  "google": null,
+  "spotify": null,
+  "overcast": "https://overcast.fm/itunes1341991591",
+  "pcast": "http://pca.st/FBy9",
+  "castro": "https://castro.fm/itunes/1341991591",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}

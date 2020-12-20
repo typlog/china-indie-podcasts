@@ -1,0 +1,18 @@
+{
+  "name": "李丁聊天室",
+  "description": "李丁聊天室是一款关于创业和职业成长相关主题的播客。李丁和他的老朋友新朋友一起讨论这些关于职业成长和研究的话题。",
+  "author": "李丁",
+  "color": "",
+  "logo": "https://dingzeyu.li/podcast/assets/img/logo-small.png",
+  "url": "https://dingzeyu.li/podcast/",
+  "feed": "https://anchor.fm/s/34f9859c/podcast/rss",
+  "apple": "https://podcasts.apple.com/us/podcast/%E6%9D%8E%E4%B8%81%E8%81%8A%E5%A4%A9%E5%AE%A4-liding-chatroom/id1533612667",
+  "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNGY5ODU5Yy9wb2RjYXN0L3Jzcw==",
+  "spotify": "https://open.spotify.com/show/5u7Ly6E263nn4nDqCLTDA1",
+  "overcast": "https://overcast.fm/itunes1533612667/liding-chatroom",
+  "pcast": "https://pca.st/5qpmqfrx",
+  "castro": null,
+  "breaker": "https://www.breaker.audio/li-ding-liao-tian-shi-liding-chatroom",
+  "typlog": false,
+  "blocked": false
+}

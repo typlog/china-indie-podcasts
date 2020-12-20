@@ -1,0 +1,18 @@
+{
+  "name": "一画一话",
+  "description": "「一画一话」是中文播客世界第一个聚焦现当代艺术展的泛文化类节目，编辑部在上海。",
+  "author": "杨老师 ",
+  "color": "#F04C82",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/2/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/cover_small.jpg",
+  "url": "http://www.theviewtalk.com/",
+  "feed": "http://www.theviewtalk.com/rss",
+  "apple": "https://podcasts.apple.com/podcast/id1459969815",
+  "google": "https://www.google.com/podcasts?feed=aHR0cDovL3d3dy50aGV2aWV3dGFsay5jb20vcnNz",
+  "spotify": "https://open.spotify.com/show/7AiOQng2OECaVRO2iwEPNj",
+  "overcast": "https://overcast.fm/p1272829-slLJLH",
+  "pcast": null,
+  "castro": "https://castro.fm/podcast/29c58bd0-a158-4b3f-8abd-4b51157b6af3",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}

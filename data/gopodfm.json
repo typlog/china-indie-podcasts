@@ -1,0 +1,18 @@
+{
+  "name": "来听呗 | GoPod.FM",
+  "description": "来听呗 | GoPod.FM 是一档“我来讲，你来听”的播客节目，在这里有你爱听的内容，也有你没必要听的内容。",
+  "author": "mai",
+  "color": "",
+  "logo": "https://gopod.fm/images/gopodfm.png",
+  "url": "https://gopod.fm/about/",
+  "feed": "https://gopod.fm/index.xml",
+  "apple": "https://podcasts.apple.com/cn/podcast/%E6%9D%A5%E5%90%AC%E5%91%97-gopod-fm/id1535974856",
+  "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yZmQyOWM5OC9wb2RjYXN0L3Jzcw==",
+  "spotify": "https://open.spotify.com/show/6gQFZlOqQ1JBFFoFyBOYOh",
+  "overcast": "https://overcast.fm/itunes1526742536",
+  "pcast": "https://pca.st/alt04vsj",
+  "castro": "https://castro.fm/itunes/1526742536",
+  "breaker": "https://www.breaker.audio/lai-ting-bai",
+  "typlog": false,
+  "blocked": false
+}

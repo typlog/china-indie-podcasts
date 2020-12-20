@@ -1,0 +1,18 @@
+{
+  "name": "Steve说",
+  "description": "深度交流、拓宽边界、认识自我",
+  "author": "史秀雄Steve",
+  "color": "#FFFFFF",
+  "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/b/b25803c6-0112-476c-9dbf-3e0f961a0e9d/cover_small.jpg",
+  "url": "http://steveshuo.com/",
+  "feed": "http://steveshuo.com/rss",
+  "apple": null,
+  "google": null,
+  "spotify": null,
+  "overcast": null,
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}

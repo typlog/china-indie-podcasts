@@ -8,11 +8,11 @@
   "feed": "http://www.etw.fm/rss",
   "apple": "https://podcasts.apple.com/podcast/id1183662640",
   "google": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iwcjdodn4rhxotwfgn7xbihww2e?t%3D%25E5%25A3%25B0%25E4%25B8%259C%25E5%2587%25BB%25E8%25A5%25BF%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16",
-  "spotify": "",
+  "spotify": "https://open.spotify.com/show/4g90u0gDleBx82Am08SmkN",
   "overcast": "https://overcast.fm/itunes1183662640",
   "pcast": null,
   "castro": "https://castro.fm/itunes/1183662640",
   "breaker": null,
   "typlog": false,
-  "blocked": true
+  "blocked": false
 }
