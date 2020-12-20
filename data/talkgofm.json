@@ -1,0 +1,19 @@
+{
+  "name": "Go 夜聊",
+  "description": "「Go 夜聊」是一档由杨文和欧长坤主持的针对 Go 语言的播客节目。 我们的宗旨是让更多的人了解 Go ，包括 Go 语言的发展和未来规划，当然也有很多资深 Gopher 与 Go 语言的故事。",
+  "author": "欧长坤、杨文",
+  "color": "",
+  "logo": "https://talkgo.fm/images/talkgofm.png",
+  "url": "https://talkgo.fm/about/",
+  "feed": "https://talkgo.fm/index.xml",
+  "apple": "https://podcasts.apple.com/cn/podcast/go-%E5%A4%9C%E8%81%8A/id1538614001",
+  "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMTg5NDEzOC9wb2RjYXN0L3Jzcw==",
+  "spotify": "https://open.spotify.com/show/7eIpphQw557m8TsC2XZSBg",
+  "overcast": "https://overcast.fm/itunes1538614001",
+  "pcast": null,
+  "castro": "",
+  "breaker": "https://www.breaker.audio/go-ye-liao-talkgo-dot-fm",
+  "liqi": "",
+  "typlog": false,
+  "blocked": false
+}
