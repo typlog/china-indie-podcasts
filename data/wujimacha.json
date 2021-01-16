@@ -1,0 +1,18 @@
+{
+  "name": "WūJīMāChā瞭望台",
+  "description": "Architectural Observation, Art and Philosophy, Life and Work.「WūJīMāChā瞭望台」負責記錄觀察和思考，從而推動行動。不定期更新。",
+  "author": "WūJīMāChā",
+  "color": "#fdfcf8",
+  "logo": "https://zizhengw.github.io/wujimacha-outreach/res/wujimacha_logo.png",
+  "url": "https://www.wujimacha.com/podcast",
+  "feed": "https://zizhengw.github.io/wujimacha-outreach/rss.xml",
+  "apple": "https://podcasts.apple.com/us/podcast/w%C5%ABj%C4%ABm%C4%81ch%C4%81%E7%9E%AD%E6%9C%9B%E5%8F%B0/id1496136680",
+  "google": "https://podcasts.google.com/feed/aHR0cHM6Ly93dWppbWFjaGF2YWxsZXkudHlwbG9nLmlvL2VwaXNvZGVzL2ZlZWQueG1s?sa=X&ved=0CAYQrrcFahcKEwjY5Zf59pDuAhUAAAAAHQAAAAAQAg",
+  "spotify": "https://open.spotify.com/show/2TD1Klzppzihi1Hy9PRwwG?si=PPb_Uu70QOmV9KoBVwF6wg",
+  "overcast": "https://overcast.fm/itunes1496136680",
+  "pcast": "https://pca.st/c5qasede",
+  "castro": "https://castro.fm/podcast/4cc28272-b874-4387-9168-29a34c508b43",
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+}
