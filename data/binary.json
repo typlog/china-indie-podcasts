@@ -1,0 +1,19 @@
+{
+  "name": "二分电台",
+  "description": "一档互联网主题的闲聊节目，旨在少传播焦虑，多分享热忱。",
+  "author": "2BAB、lastmayday",
+  "color": "",
+  "logo": "https://2bab-images.lastmayday.com/blog/%E4%BA%8C%E5%88%86logo1000.PNG?imageslim",
+  "url": "https://binary.2bab.me/",
+  "feed": "https://binary.2bab.me/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/podcast/id1551632067",
+  "google": "https://podcasts.google.com/feed/aHR0cDovL2JpbmFyeS4yYmFiLm1lL2VwaXNvZGVzL2ZlZWQueG1s",
+  "spotify": "https://open.spotify.com/show/38DTOZM3phmV2TooSO8eya",
+  "overcast": "https://overcast.fm/itunes1551632067",
+  "pcast": "https://pca.st/a3biutnh",
+  "castro": "https://castro.fm/podcast/9443a218-32cb-4bb0-bab0-16e7e464b802",
+  "breaker": "https://www.breaker.audio/er-fen-dian-tai",
+  "liqi": "",
+  "typlog": true,
+  "blocked": false
+}
