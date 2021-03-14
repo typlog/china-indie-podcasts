@@ -1,0 +1,19 @@
+
+{
+  "name": "熊言熊语",
+  "description": "「熊言熊语」是一档关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。思考问题的熊和他的朋友们一起聊学习工作、聊科研科普。",
+  "author": "思考问题的熊",
+  "color": "",
+  "logo": "https://kaopubear-1254299507.cos.ap-shanghai.myqcloud.com/picgo/20200917130953.png",
+  "url": "https://podcast.kaopubear.top/",
+  "feed": "https://podcast.kaopubear.top/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/cn/podcast/id1505324441",
+  "google": "https://podcasts.google.com/?feed=aHR0cHM6Ly9rYW9wdWJlYXIudHlwbG9nLmlvL2VwaXNvZGVzL2ZlZWQueG1s",
+  "spotify": "https://open.spotify.com/show/25CJMzBDmGCVwEA0YNiuPS",
+  "overcast": "https://overcast.fm/p1629966-a1125n",
+  "pcast": "https://pca.st/3pyg17ve",
+  "castro": "https://castro.fm/podcast/5174091a-66a7-4c23-aae1-fc619adf55ee",
+  "liqi": "",
+  "typlog": true,
+  "blocked": false
+}
