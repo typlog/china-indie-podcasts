@@ -1,0 +1,19 @@
+{
+  "name": "已知未知 Known Unknowns",
+  "description": "一档聚焦生活、科技与职业的非定期更新播客。信息过载的时代，我们从已知探索未知",
+  "author": "TonyHe",
+  "color": "#374151",
+  "logo": "https://static.ouorz.com/kuk_podcast_logo.jpg",
+  "url": "https://kukfm.com",
+  "feed": "https://kukfm.com/rss",
+  "apple": "https://podcasts.apple.com/us/podcast/已知未知-known-unknowns/id1546993177",
+  "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80NjEyZTY5OC9wb2RjYXN0L3Jzcw==",
+  "spotify": "https://open.spotify.com/show/1wyg21KT66xDoG5dB2ouGa",
+  "overcast": "https://overcast.fm/p2604911-6b4FNh",
+  "pcast": "https://pca.st/cqr2jmh4",
+  "castro": "https://castro.fm/itunes/1546993177",
+  "breaker": "https://www.breaker.audio/yi-zhi-wei-zhi-known-unknowns",
+  "liqi": null,
+  "typlog": false,
+  "blocked": false
+}
