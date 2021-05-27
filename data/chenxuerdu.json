@@ -1,0 +1,17 @@
+{
+  "name": "趁虚而读",
+  "description": "一档聚焦短篇小说的播客，欢迎大家跟着我们一起阅读，通过短篇小说之眼观察世界。",
+  "author": "Amy、X女士、鱼组",
+  "color": "#ED1A55",
+  "logo": "https://i.typlog.com/chenxuerdu/8385907852_071466.png",
+  "url": "https://chenxuerdu.typlog.io/",
+  "feed": "https://chenxuerdu.typlog.io/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/cn/podcast/id1554867804",
+  "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9jaGVueHVlcmR1LnR5cGxvZy5pby9lcGlzb2Rlcy9mZWVkLnhtbA",
+  "spotify": "https://open.spotify.com/show/2hezToZWJ1Ns8ud6gUNcEh",
+  "overcast": "https://overcast.fm/itunes1554867804",
+  "castro": "https://castro.fm/itunes/1554867804",
+  "小宇宙": "https://www.xiaoyuzhoufm.com/podcast/6033c9fc302e9092e0fe93e3?s=eyJ1IjogIjYwMzNjY2Q3ZTBmNWU3MjNiYmZmYzg3MyJ9",
+  "typlog": true,
+  "blocked": false
+}
