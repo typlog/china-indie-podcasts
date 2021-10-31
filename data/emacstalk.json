@@ -1,0 +1,18 @@
+{
+  "name": "EmacsTalk",
+  "description": "一档专注在 Emacs 社区的程序员闲聊节目",
+  "author": "写代码的西瓜",
+  "color": "",
+  "logo": "https://emacstalk.github.io/logo3000.png",
+  "url": "https://emacstalk.github.io/",
+  "feed": "https://emacstalk.github.io/podcast/index.xml",
+  "apple": "https://podcasts.apple.com/podcast/emacstalk/id1574036730",
+  "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9lbWFjc3RhbGsuZ2l0aHViLmlvL3BvZGNhc3QvaW5kZXgueG1s",
+  "spotify": "https://open.spotify.com/show/6QdmFKhhjN6IAhXDIknUqI",
+  "overcast": null,
+  "pcast": "https://pca.st/hbvw3oxs",
+  "castro": null,
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+}
