@@ -13,7 +13,7 @@
   "author": "",
   "license": "private",
   "devDependencies": {
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "nunjucks": "^3.2.2",
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-nunjucks": "^1.1.0"
