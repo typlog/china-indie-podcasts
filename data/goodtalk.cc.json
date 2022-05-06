@@ -1,0 +1,18 @@
+{
+  "name": "Good Talk",
+  "description": "Actually an average show.",
+  "author": "🥚, 🎁",
+  "color": "#FFFFFF",
+  "logo": "https://i.typlog.com/missionary/8359814367_640253.jpg",
+  "url": "https://goodtalk.cc/",
+  "feed": "https://goodtalk.cc/feed/audio.xml",
+  "apple": "https://podcasts.apple.com/podcast/good-talk/id1599125205",
+  "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9qaWhlLnVzL2VwaXNvZGVzL2ZlZWQueG1s",
+  "spotify": null,
+  "overcast": "https://overcast.fm/itunes1599125205",
+  "pcast": "https://pca.st/irdlgx96",
+  "castro": "https://castro.fm/podcast/c5452a28-c62e-49c6-a4ae-078255cc9785",
+  "breaker": null,
+  "typlog": true,
+  "blocked": false
+}
